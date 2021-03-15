@@ -1241,5 +1241,21 @@
     "status": "Operational",
     "bands": "",
     "notes": null
+  },{
+    "plmn": "901998",
+    "nibbledPlmn": "098199",
+    "mcc": "901",
+    "mnc": "998",
+    "region": "Worldwide",
+    "type": "International",
+    "countryName": "Satellite Networks",
+    "countryCode": "n/a",
+    "lat": null,
+    "long": null,
+    "brand": "cruiseshipsandferries",
+    "operator": "cruiseshipsandferries",
+    "status": "Operational",
+    "bands": "",
+    "notes": null
   }
 ]
