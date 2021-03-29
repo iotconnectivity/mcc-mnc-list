@@ -1258,4 +1258,21 @@
     "bands": "",
     "notes": null
   }
+  ,{
+    "plmn": "73447",
+    "nibbledPlmn": "098199",
+    "mcc": "734",
+    "mnc": "47",
+    "region": "South and Central America",
+    "type": "National",
+    "countryName": "Venezuela",
+    "countryCode": "VE",
+    "lat": null,
+    "long": null,
+    "brand": "Venezuela",
+    "operator": "Venezuela",
+    "status": "Operational",
+    "bands": "",
+    "notes": "mapping for dummy mcc-mnc"
+  }
 ]

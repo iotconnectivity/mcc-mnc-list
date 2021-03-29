@@ -1261,6 +1261,23 @@
     "notes": null
   },
   {
+    "plmn": "73447",
+    "nibbledPlmn": "098199",
+    "mcc": "734",
+    "mnc": "47",
+    "region": "South and Central America",
+    "type": "National",
+    "countryName": "Venezuela",
+    "countryCode": "VE",
+    "lat": null,
+    "long": null,
+    "brand": "Venezuela",
+    "operator": "Venezuela",
+    "status": "Operational",
+    "bands": "",
+    "notes": "mapping for dummy mcc-mnc"
+  },
+  {
     "plmn": "00101",
     "nibbledPlmn": "00F110",
     "mcc": "001",
@@ -4351,7 +4368,7 @@
     "brand": "Vodafone",
     "operator": "Vodafone Czech Republic",
     "status": "Operational",
-    "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600",
+    "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 1800 / 5G 2100",
     "notes": "Former Oskar"
   },
   {
@@ -29782,9 +29799,9 @@
     "long": "90",
     "brand": "ollo",
     "operator": "Bangladesh Internet Exchange Limited (BIEL)",
-    "status": "Operational",
+    "status": "Not operational",
     "bands": "LTE 800 / LTE 2600 / WiMAX 3500",
-    "notes": null
+    "notes": "shut down 2019"
   },
   {
     "plmn": "47010",
@@ -35580,7 +35597,7 @@
     "brand": "SoftBank",
     "operator": "SoftBank Corp.",
     "status": "Operational",
-    "bands": "UMTS 900 / UMTS 2100 / LTE 700 / LTE 900 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 2500 / TD-LTE 3500 / 5G 3700",
+    "bands": "UMTS 900 / UMTS 2100 / LTE 700 / LTE 900 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 2500 / TD-LTE 3500 / 5G 3700 / 5G 28000",
     "notes": "bands 1, 3, 8, 11, 28, 41, 42"
   },
   {
@@ -35597,7 +35614,7 @@
     "brand": "SoftBank",
     "operator": "SoftBank Corp.",
     "status": "Operational",
-    "bands": "UMTS 900 / UMTS 2100 / LTE 700 / LTE 900 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 2500 / TD-LTE 3500 / 5G 3700",
+    "bands": "UMTS 900 / UMTS 2100 / LTE 700 / LTE 900 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 2500 / TD-LTE 3500 / 5G 3700 / 5G 28000",
     "notes": "bands 1, 3, 8, 11, 28, 41, 42"
   },
   {
@@ -41840,6 +41857,23 @@
     "notes": "CDMA shut down March 2016"
   },
   {
+    "plmn": "63105",
+    "nibbledPlmn": "36F150",
+    "mcc": "631",
+    "mnc": "05",
+    "region": "Africa",
+    "type": "National",
+    "countryName": "Angola",
+    "countryCode": "AO",
+    "lat": "-12.5",
+    "long": "18.5",
+    "brand": null,
+    "operator": "Africell",
+    "status": "Not operational",
+    "bands": "Unknown",
+    "notes": "Network to launch by end of 2021"
+  },
+  {
     "plmn": "61601",
     "nibbledPlmn": "16F610",
     "mcc": "616",
@@ -47562,8 +47596,8 @@
     "countryCode": "BR",
     "lat": "-10",
     "long": "-55",
-    "brand": "Correios",
-    "operator": "Correios Celular",
+    "brand": "Surf Telecom",
+    "operator": "Correios Celula",
     "status": "Operational",
     "bands": "MVNO",
     "notes": "Through TIM network"
@@ -49554,7 +49588,7 @@
     "brand": "Claro",
     "operator": "América Móvil Perú",
     "status": "Operational",
-    "bands": "GSM 1900 / UMTS 850 / LTE 700 / LTE 1900 / TD-LTE 3500",
+    "bands": "GSM 1900 / UMTS 850 / LTE 700 / LTE 1900 / TD-LTE 3500 / 5G 3500 / 5G 39000",
     "notes": "Former TIM"
   },
   {
@@ -49588,7 +49622,7 @@
     "brand": "Entel",
     "operator": "Entel Perú S.A.",
     "status": "Operational",
-    "bands": "UMTS 1900 / LTE 1700 / TD-LTE 2300",
+    "bands": "UMTS 1900 / LTE 1700 / TD-LTE 2300 / 5G 3500",
     "notes": "Former Nextel"
   },
   {
