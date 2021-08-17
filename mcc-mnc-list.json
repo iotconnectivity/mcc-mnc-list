@@ -10533,11 +10533,11 @@
     "countryCode": "PL",
     "lat": "52",
     "long": "20",
-    "brand": null,
-    "operator": "Polskie Sieci Radiowe Sp. z o.o. Sp. k.a.",
+    "brand": "TeleCube.PL",
+    "operator": "Claude ICT Poland Sp. z o.o.",
     "status": "Not operational",
     "bands": "Unknown",
-    "notes": "Former Best Solutions & Technology Experience Sp. z o.o. MNC withdrawn"
+    "notes": ""
   },
   {
     "plmn": "26026",
