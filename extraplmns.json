@@ -1274,5 +1274,37 @@
     "status": "Operational",
     "bands": "",
     "notes": "mapping for dummy mcc-mnc"
+  },{
+    "plmn": "33402",
+    "nibbledPlmn": "33F420",
+    "mcc": "334",
+    "mnc": "02",
+    "region": "South and Central America",
+    "type": "National",
+    "countryName": "Mexico",
+    "countryCode": "MX",
+    "lat": "23",
+    "long": "-102",
+    "brand": "Telcel",
+    "operator": "Telcel",
+    "status": "Operational",
+    "bands": "",
+    "notes": ""
+  },{
+    "plmn": "63103",
+    "nibbledPlmn": "36F130",
+    "mcc": "631",
+    "mnc": "03",
+    "region": "Africa",
+    "type": "National",
+    "countryName": "Angola",
+    "countryCode": "AO",
+    "lat": "-12.5",
+    "long": "18.5",
+    "brand": "Movicel Angola",
+    "operator": "Movicel Angola",
+    "status": "Operational",
+    "bands": "",
+    "notes": null
   }
 ]

@@ -1278,6 +1278,40 @@
     "notes": "mapping for dummy mcc-mnc"
   },
   {
+    "plmn": "33402",
+    "nibbledPlmn": "33F420",
+    "mcc": "334",
+    "mnc": "02",
+    "region": "South and Central America",
+    "type": "National",
+    "countryName": "Mexico",
+    "countryCode": "MX",
+    "lat": "23",
+    "long": "-102",
+    "brand": "Telcel",
+    "operator": "Telcel",
+    "status": "Operational",
+    "bands": "",
+    "notes": ""
+  },
+  {
+    "plmn": "63103",
+    "nibbledPlmn": "36F130",
+    "mcc": "631",
+    "mnc": "03",
+    "region": "Africa",
+    "type": "National",
+    "countryName": "Angola",
+    "countryCode": "AO",
+    "lat": "-12.5",
+    "long": "18.5",
+    "brand": "Movicel Angola",
+    "operator": "Movicel Angola",
+    "status": "Operational",
+    "bands": "",
+    "notes": null
+  },
+  {
     "plmn": "00101",
     "nibbledPlmn": "00F110",
     "mcc": "001",
@@ -2689,6 +2723,74 @@
     "notes": null
   },
   {
+    "plmn": "90180",
+    "nibbledPlmn": "09F108",
+    "mcc": "901",
+    "mnc": "80",
+    "region": "Worldwide",
+    "type": "International",
+    "countryName": null,
+    "countryCode": null,
+    "lat": null,
+    "long": null,
+    "brand": null,
+    "operator": "Flo Live Limited",
+    "status": "Operational",
+    "bands": "MVNO",
+    "notes": "IoT solutions"
+  },
+  {
+    "plmn": "90181",
+    "nibbledPlmn": "09F118",
+    "mcc": "901",
+    "mnc": "81",
+    "region": "Worldwide",
+    "type": "International",
+    "countryName": null,
+    "countryCode": null,
+    "lat": null,
+    "long": null,
+    "brand": null,
+    "operator": "Airnity SAS",
+    "status": "Unknown",
+    "bands": "MVNO",
+    "notes": "IoT solutions"
+  },
+  {
+    "plmn": "90182",
+    "nibbledPlmn": "09F128",
+    "mcc": "901",
+    "mnc": "82",
+    "region": "Worldwide",
+    "type": "International",
+    "countryName": null,
+    "countryCode": null,
+    "lat": null,
+    "long": null,
+    "brand": null,
+    "operator": "Eseye Limited",
+    "status": "Unknown",
+    "bands": "MVNO",
+    "notes": "IoT solutions"
+  },
+  {
+    "plmn": "90183",
+    "nibbledPlmn": "09F138",
+    "mcc": "901",
+    "mnc": "83",
+    "region": "Worldwide",
+    "type": "International",
+    "countryName": null,
+    "countryCode": null,
+    "lat": null,
+    "long": null,
+    "brand": null,
+    "operator": "iBasis Netherlands BV",
+    "status": "Unknown",
+    "bands": "Unknown",
+    "notes": null
+  },
+  {
     "plmn": "90188",
     "nibbledPlmn": "09F188",
     "mcc": "901",
@@ -2754,7 +2856,7 @@
     "operator": "Orange S.A.",
     "status": "Unknown",
     "bands": "5G",
-    "notes": "temporarily assigned until 6 August 2021"
+    "notes": "temporarily assigned until 6 August 2022"
   },
   {
     "plmn": "99103",
@@ -2835,11 +2937,11 @@
     "countryCode": "AL",
     "lat": "41",
     "long": "20",
-    "brand": "Telekom.al",
-    "operator": "Telekom Albania",
+    "brand": "ONE",
+    "operator": "One Telecommunications",
     "status": "Operational",
     "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2600",
-    "notes": null
+    "notes": "Former Telekom Albania"
   },
   {
     "plmn": "27602",
@@ -2869,11 +2971,11 @@
     "countryCode": "AL",
     "lat": "41",
     "long": "20",
-    "brand": "Eagle Mobile",
+    "brand": "ALBtelecom",
     "operator": "Albtelecom",
     "status": "Operational",
     "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800",
-    "notes": null
+    "notes": "Former Eagle Mobile"
   },
   {
     "plmn": "27604",
@@ -2890,7 +2992,7 @@
     "operator": "Plus Communication",
     "status": "Not operational",
     "bands": "GSM 900 / GSM 1800 / UMTS 2100",
-    "notes": "Shut down Jan 2018"
+    "notes": "Shut down Jan 2018; MNC withdrawn"
   },
   {
     "plmn": "21303",
@@ -4300,7 +4402,7 @@
     "brand": "A1",
     "operator": "A1 Hrvatska",
     "status": "Operational",
-    "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800",
+    "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / 5G 700 / 5G 3500",
     "notes": "Former Vipnet"
   },
   {
@@ -4453,7 +4555,7 @@
     "brand": "T-Mobile",
     "operator": "T-Mobile Czech Republic",
     "status": "Operational",
-    "bands": "GSM 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 1800 / 5G 2100",
+    "bands": "GSM 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 1800 / 5G 2100",
     "notes": "Former Paegas"
   },
   {
@@ -4586,11 +4688,11 @@
     "countryCode": "CZ",
     "lat": "49.75",
     "long": "15",
-    "brand": "Vectone Mobile",
-    "operator": "Mundio Distribution Czech Republic s.r.o.",
-    "status": "Not operational",
+    "brand": "Unimobile",
+    "operator": "Uniphone, s.r.o.",
+    "status": "Unknown",
     "bands": "MVNO",
-    "notes": "MNC withdrawn"
+    "notes": "Former Vectone/Mundio"
   },
   {
     "plmn": "23098",
@@ -5506,6 +5608,23 @@
     "long": "26",
     "brand": null,
     "operator": "Tismi B.V.",
+    "status": "Unknown",
+    "bands": "Unknown",
+    "notes": null
+  },
+  {
+    "plmn": "24822",
+    "nibbledPlmn": "42F822",
+    "mcc": "248",
+    "mnc": "22",
+    "region": "Europe",
+    "type": "National",
+    "countryName": "Estonia",
+    "countryCode": "EE",
+    "lat": "59",
+    "long": "26",
+    "brand": null,
+    "operator": "M2MConnect OÜ",
     "status": "Unknown",
     "bands": "Unknown",
     "notes": null
@@ -7972,8 +8091,8 @@
     "brand": "Telekom",
     "operator": "Telekom Deutschland GmbH",
     "status": "Operational",
-    "bands": "GSM 900 / UMTS 2100 / LTE 700 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 2100 / 5G 3500",
-    "notes": "Formerly D1 - DeTeMobil, D1-Telekom, T-D1, T-Mobile; UMTS to shut down Jun 2021"
+    "bands": "GSM 900 / LTE 700 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 2100 / 5G 3500",
+    "notes": "Formerly D1 - DeTeMobil, D1-Telekom, T-D1, T-Mobile; UMTS shut down Jun 2021"
   },
   {
     "plmn": "26202",
@@ -7989,8 +8108,8 @@
     "brand": "Vodafone",
     "operator": "Vodafone D2 GmbH",
     "status": "Operational",
-    "bands": "GSM 900 / UMTS 2100 / LTE 700 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 1800 / 5G 3500",
-    "notes": "Former D2 Mannesmann; UMTS to shut down Jun 2021"
+    "bands": "GSM 900 / LTE 700 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 1800 / 5G 3500",
+    "notes": "Former D2 Mannesmann; UMTS shut down Jun 2021"
   },
   {
     "plmn": "26203",
@@ -8006,7 +8125,7 @@
     "brand": "O2",
     "operator": "Telefónica Germany GmbH & Co. oHG",
     "status": "Operational",
-    "bands": "GSM 900 / UMTS 2100 / LTE 700 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 3500",
+    "bands": "GSM 900 / UMTS 2100 / LTE 700 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 3500",
     "notes": "Former E-Plus until 2014; UMTS to shut down Dec 2021"
   },
   {
@@ -8057,7 +8176,7 @@
     "brand": "Telekom",
     "operator": "Telekom Deutschland GmbH",
     "status": "Reserved",
-    "bands": "GSM 900 / UMTS 2100 / LTE 800 / LTE 900 / LTE 1500 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 2100 / 5G 3500",
+    "bands": "GSM 900 / LTE 800 / LTE 900 / LTE 1500 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 2100 / 5G 3500",
     "notes": null
   },
   {
@@ -8108,7 +8227,7 @@
     "brand": "Vodafone",
     "operator": "Vodafone D2 GmbH",
     "status": "Operational",
-    "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 2600",
+    "bands": "GSM 900 / GSM 1800 / LTE 2600",
     "notes": "Internal testing IOT"
   },
   {
@@ -9676,6 +9795,23 @@
     "notes": "Internet of things"
   },
   {
+    "plmn": "27268",
+    "nibbledPlmn": "72F286",
+    "mcc": "272",
+    "mnc": "68",
+    "region": "Europe",
+    "type": "National",
+    "countryName": "Ireland",
+    "countryCode": "IE",
+    "lat": "53",
+    "long": "-8",
+    "brand": null,
+    "operator": "Office of the Government Chief Information Officer",
+    "status": "Unknown",
+    "bands": "Unknown",
+    "notes": null
+  },
+  {
     "plmn": "23418",
     "nibbledPlmn": "32F481",
     "mcc": "234",
@@ -9757,7 +9893,7 @@
     "brand": "TIM",
     "operator": "Telecom Italia S.p.A.",
     "status": "Operational",
-    "bands": "GSM 900 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1500 / LTE 1800 / LTE 2600",
+    "bands": "GSM 900 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1500 / LTE 1800 / LTE 2600 / 5G 3500",
     "notes": null
   },
   {
@@ -9825,8 +9961,8 @@
     "brand": "Vodafone",
     "operator": "Vodafone Italia S.p.A.",
     "status": "Operational",
-    "bands": "5G 3500",
-    "notes": "Used for 5G-NSA"
+    "bands": "Unknown",
+    "notes": "Unknown"
   },
   {
     "plmn": "22207",
@@ -9860,7 +9996,7 @@
     "operator": "Fastweb S.p.A.",
     "status": "Operational",
     "bands": "MVNO",
-    "notes": "Uses TIM Network"
+    "notes": "Uses TIM and WindTre Networks"
   },
   {
     "plmn": "22210",
@@ -9876,7 +10012,7 @@
     "brand": "Vodafone",
     "operator": "Vodafone Italia S.p.A.",
     "status": "Operational",
-    "bands": "GSM 900 / LTE 800  / LTE 1500 / LTE 1800 / LTE 2100 / LTE 2600",
+    "bands": "GSM 900 / LTE 800  / LTE 1500 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 3500",
     "notes": null
   },
   {
@@ -10016,6 +10152,23 @@
     "notes": null
   },
   {
+    "plmn": "22241",
+    "nibbledPlmn": "22F214",
+    "mcc": "222",
+    "mnc": "41",
+    "region": "Europe",
+    "type": "National",
+    "countryName": "Italy",
+    "countryCode": "IT",
+    "lat": "42.833333",
+    "long": "12.833333",
+    "brand": "GO internet",
+    "operator": "GO internet S.p.A.",
+    "status": "Operational",
+    "bands": "TD-LTE 3500 / 5G 3500",
+    "notes": "spectrum available only in Marche and Emilia-Romagna, roams on Linkem otherwise"
+  },
+  {
     "plmn": "22243",
     "nibbledPlmn": "22F234",
     "mcc": "222",
@@ -10029,8 +10182,8 @@
     "brand": "TIM",
     "operator": "Telecom Italia S.p.A.",
     "status": "Operational",
-    "bands": "5G 3500 / 5G 26000",
-    "notes": "Used for 5G-NSA"
+    "bands": "5G 26000",
+    "notes": null
   },
   {
     "plmn": "22247",
@@ -11133,9 +11286,9 @@
     "long": "14.433333",
     "brand": null,
     "operator": "YOM Ltd.",
-    "status": "Operational",
+    "status": "Not operational",
     "bands": "MVNO",
-    "notes": null
+    "notes": "MNC withdrawn"
   },
   {
     "plmn": "27821",
@@ -11234,7 +11387,7 @@
     "lat": "47",
     "long": "29",
     "brand": "Moldcell",
-    "operator": null,
+    "operator": "Moldcell",
     "status": "Operational",
     "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2600",
     "notes": null
@@ -11250,7 +11403,7 @@
     "countryCode": "MD",
     "lat": "47",
     "long": "29",
-    "brand": "Unité",
+    "brand": "Moldtelecom",
     "operator": "Moldtelecom",
     "status": "Operational",
     "bands": "CDMA 450",
@@ -11284,11 +11437,11 @@
     "countryCode": "MD",
     "lat": "47",
     "long": "29",
-    "brand": "Unité",
+    "brand": "Moldtelecom",
     "operator": "Moldtelecom",
     "status": "Operational",
     "bands": "UMTS 900 / UMTS 2100 / LTE 1800",
-    "notes": null
+    "notes": "Former Unité"
   },
   {
     "plmn": "25915",
@@ -11318,11 +11471,11 @@
     "countryCode": "MD",
     "lat": "47",
     "long": "29",
-    "brand": "Unité",
+    "brand": "Moldtelecom",
     "operator": "Moldtelecom",
     "status": "Operational",
     "bands": "UMTS 2100",
-    "notes": "Used for Femtocell service only"
+    "notes": "Former Unité; used for Femtocell service only"
   },
   {
     "plmn": "21210",
@@ -13052,11 +13205,11 @@
     "countryCode": "PL",
     "lat": "52",
     "long": "20",
-    "brand": null,
-    "operator": "Polskie Sieci Radiowe Sp. z o.o. Sp. k.a.",
-    "status": "Not operational",
+    "brand": "TeleCube.PL",
+    "operator": "Claude ICT Poland Sp. z o.o.",
+    "status": "Operational",
     "bands": "Unknown",
-    "notes": "Former Best Solutions & Technology Experience Sp. z o.o. MNC withdrawn"
+    "notes": "Former Best Solutions & Technology Experience, Polskie Sieci Radiowe"
   },
   {
     "plmn": "26026",
@@ -15248,7 +15401,7 @@
     "brand": "Telemach",
     "operator": "Tušmobil d.o.o.",
     "status": "Operational",
-    "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / 5G 3500",
+    "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 700 / LTE 800 / LTE 1800 / LTE 2100 / 5G 700 / 5G 3500",
     "notes": null
   },
   {
@@ -15316,7 +15469,7 @@
     "brand": "Orange",
     "operator": "Orange Espagne S.A.U",
     "status": "Operational",
-    "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 3500",
+    "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 3500",
     "notes": "Also use MNC 33; Some MVNO use this MNC (Euskaltel, móbilR, Hualong, The Phone House Spain, CABLE movil, SUOP)"
   },
   {
@@ -15467,10 +15620,10 @@
     "lat": "40",
     "long": "-4",
     "brand": null,
-    "operator": "SAC CONVERGENT AGGREGATION SERVICES, S.L.U.",
-    "status": "Not operational",
+    "operator": "VENUS MOVIL, S.L. UNIPERSONAL",
+    "status": "Unknown",
     "bands": "Unknown",
-    "notes": "Former Contacta Servicios Avanzados de Telecomunicaciones SL; MNC withdrawn"
+    "notes": "Former Contacta Servicios Avanzados de Telecomunicaciones SL; SAC CONVERGENT AGGREGATION SERVICES"
   },
   {
     "plmn": "21413",
@@ -15774,9 +15927,9 @@
     "long": "-4",
     "brand": null,
     "operator": "Compatel Limited",
-    "status": "Unknown",
+    "status": "Not operational",
     "bands": "Unknown",
-    "notes": null
+    "notes": "MNC withdrawn"
   },
   {
     "plmn": "21431",
@@ -16030,7 +16183,7 @@
     "brand": "Telenor",
     "operator": "Telenor Sverige AB",
     "status": "Operational",
-    "bands": "UMTS 2100 / 5G 3500",
+    "bands": "UMTS 2100",
     "notes": "Former Vodafone Sweden"
   },
   {
@@ -16047,7 +16200,7 @@
     "brand": "Tele2",
     "operator": "Tele2 Sverige AB",
     "status": "Operational",
-    "bands": "UMTS 2100 / LTE 800 / LTE 900 / LTE 1800 / LTE 2600 / 5G 3500",
+    "bands": "UMTS 2100 / LTE 800 / LTE 900 / LTE 1800 / LTE 2600",
     "notes": "MOCN r6 network"
   },
   {
@@ -16336,7 +16489,7 @@
     "brand": "Sweden 2G",
     "operator": "Net4Mobility HB",
     "status": "Operational",
-    "bands": "GSM 900 / LTE 800 / LTE 900 / LTE 1800 / LTE 2600",
+    "bands": "GSM 900 / LTE 800 / LTE 900 / LTE 1800 / LTE 2600 / 5G 3500",
     "notes": "LTE1800 only available in major cities; owned by Telenor and Tele2."
   },
   {
@@ -16829,7 +16982,7 @@
     "brand": "Swisscom",
     "operator": "Swisscom AG",
     "status": "Operational",
-    "bands": "UMTS 900 / LTE 700 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 2100 / 5G 3500",
+    "bands": "UMTS 900 / LTE 700 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 2100 / 5G 3500",
     "notes": "UMTS 2100 shut down Nov 2019, GSM end of 2020; UMTS 900 shutdown planned for 2024"
   },
   {
@@ -16929,10 +17082,10 @@
     "lat": "47",
     "long": "8",
     "brand": "Tele4u",
-    "operator": "TelCommunication Services AG",
+    "operator": "Sunrise Communications AG",
     "status": "Operational",
     "bands": "GSM 1800",
-    "notes": "owned by Sunrise, former Tele2"
+    "notes": "Former Tele2"
   },
   {
     "plmn": "22809",
@@ -17373,7 +17526,7 @@
     "brand": "Vodafone",
     "operator": "Vodafone Turkey",
     "status": "Operational",
-    "bands": "GSM 900 / UMTS 2100 / LTE 800 / LTE 900 / LTE 1800 / LTE 2600 / TD-LTE 2600",
+    "bands": "GSM 900 / UMTS 2100 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / TD-LTE 2600",
     "notes": "Formerly known as Telsim"
   },
   {
@@ -17509,7 +17662,7 @@
     "brand": "lifecell",
     "operator": "lifecell LLC",
     "status": "Operational",
-    "bands": "GSM 900 / UMTS 2100 / LTE 1800 / LTE 2600",
+    "bands": "GSM 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2600",
     "notes": "Former life:) / Astelit"
   },
   {
@@ -18713,11 +18866,11 @@
     "countryCode": "GB",
     "lat": "51.507351",
     "long": "-0.127758",
-    "brand": null,
-    "operator": "University of Strathclyde",
+    "brand": "5G RuralFirst, 5G NewThinking, 5G RailNext, various other brands",
+    "operator": "University of Strathclyde StrathSDR",
     "status": "4G and 5G pilot networks",
     "bands": "various",
-    "notes": null
+    "notes": "for more info, see StrathSDR"
   },
   {
     "plmn": "23506",
@@ -18730,11 +18883,11 @@
     "countryCode": "GB",
     "lat": "51.507351",
     "long": "-0.127758",
-    "brand": null,
-    "operator": "University of Strathclyde",
+    "brand": "5G RuralFirst, 5G NewThinking, 5G RailNext, various other brands",
+    "operator": "University of Strathclyde StrathSDR",
     "status": "4G and 5G pilot networks",
     "bands": "various",
-    "notes": null
+    "notes": "for more info, see StrathSDR"
   },
   {
     "plmn": "23507",
@@ -18747,11 +18900,11 @@
     "countryCode": "GB",
     "lat": "51.507351",
     "long": "-0.127758",
-    "brand": null,
-    "operator": "University of Strathclyde",
+    "brand": "5G RuralFirst, 5G NewThinking, 5G RailNext, various other brands",
+    "operator": "University of Strathclyde StrathSDR",
     "status": "4G and 5G pilot networks",
     "bands": "various",
-    "notes": null
+    "notes": "for more info, see StrathSDR"
   },
   {
     "plmn": "23577",
@@ -19145,6 +19298,23 @@
     "notes": "Former CellOne"
   },
   {
+    "plmn": "350007",
+    "nibbledPlmn": "537000",
+    "mcc": "350",
+    "mnc": "007",
+    "region": "North America and the Caribbean",
+    "type": "National",
+    "countryName": "Bermuda",
+    "countryCode": "BM",
+    "lat": "32.333333",
+    "long": "-64.75",
+    "brand": null,
+    "operator": "Paradise Mobile",
+    "status": "Not operational",
+    "bands": "Unknown",
+    "notes": null
+  },
+  {
     "plmn": "35001",
     "nibbledPlmn": "53F010",
     "mcc": "350",
@@ -19159,7 +19329,7 @@
     "operator": "Telecommunications (Bermuda & West Indies) Ltd",
     "status": "Reserved",
     "bands": "GSM 1900",
-    "notes": null
+    "notes": "uses Jamaica MNC/MCC (338-050)"
   },
   {
     "plmn": "35002",
@@ -19563,11 +19733,11 @@
     "countryCode": "CA",
     "lat": "60",
     "long": "-96",
-    "brand": "FIRST",
-    "operator": "FIRST Networks Operations",
-    "status": "Not operational",
-    "bands": "GSM 850",
-    "notes": "MNC withdrawn"
+    "brand": null,
+    "operator": "Naskapi Imuun Inc.",
+    "status": "Unknown",
+    "bands": "Unknown",
+    "notes": "Former FIRST Networks"
   },
   {
     "plmn": "302360",
@@ -20229,8 +20399,8 @@
     "brand": "Rogers Wireless",
     "operator": "Rogers Communications",
     "status": "Operational",
-    "bands": "GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 / LTE 700 / LTE 1700 / LTE 2600 / 5G 600 / 5G 1700 / TD-5G 2600",
-    "notes": "former Rogers AT&T Wireless; LTE bands 12, 4, 7; GSM 1900 / UMTS 1900 to shut down 7 June 2021, GSM 850 to shut down 31 Dec 2021"
+    "bands": "GSM 850 / UMTS 850 / LTE 700 / LTE 850 / LTE 1700 / LTE 1900 / LTE 2600 / 5G 600 / 5G 1700 / TD-5G 2600",
+    "notes": "former Rogers AT&T Wireless; LTE bands 12, 5, 4, 2, 7; GSM 1900 / UMTS 1900 shut down 7 June 2021, GSM 850 to shut down 31 Dec 2021"
   },
   {
     "plmn": "302721",
@@ -20567,10 +20737,10 @@
     "lat": "60",
     "long": "-96",
     "brand": null,
-    "operator": "Powertech Labs",
-    "status": "Not operational",
+    "operator": "Institut de Recherche d’Hydro-Québec",
+    "status": "Unknown",
     "bands": "Unknown",
-    "notes": "MNC withdrawn"
+    "notes": "Former Powertech Labs; for testing"
   },
   {
     "plmn": "346001",
@@ -20688,7 +20858,7 @@
     "brand": "Altice",
     "operator": "Altice Group",
     "status": "Operational",
-    "bands": "GSM 900 / GSM 1800 / GSM 1900 / UMTS 900 / LTE 850 / LTE 1700 / LTE 1900",
+    "bands": "GSM 900 / GSM 1800 / GSM 1900 / UMTS 900 / LTE 850 / LTE 900 / LTE 1700 / LTE 1900",
     "notes": "Former Orange Dominicana"
   },
   {
@@ -20943,7 +21113,7 @@
     "brand": "Digicel",
     "operator": "Digicel Grenada Ltd.",
     "status": "Operational",
-    "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 700",
+    "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 700 / LTE 1900",
     "notes": "Also uses MCC 338 MNC 05 (Jamaica)"
   },
   {
@@ -21317,7 +21487,7 @@
     "brand": "Telcel",
     "operator": "América Móvil",
     "status": "Operational",
-    "bands": "UMTS 850 / UMTS 1900 / LTE 1700 / LTE 2600",
+    "bands": "UMTS 850 / UMTS 1900 / LTE 850 / LTE 1700 / LTE 2600",
     "notes": "former Radiomóvil Dipsa; GSM shut down Sep 2020"
   },
   {
@@ -21689,10 +21859,10 @@
     "lat": "18.04167",
     "long": "-63.06667",
     "brand": "FLOW",
-    "operator": "United Telecommunication Service N.V. (UTS)",
+    "operator": "Liberty Latin America",
     "status": "Operational",
     "bands": "GSM 900 / GSM 1800",
-    "notes": "Bonaire, Saba, Sint Eustatius, Sint Maarten; former Radcomm N.V."
+    "notes": "Bonaire, Saba, Sint Eustatius, Sint Maarten; former Radcomm N.V., UTS"
   },
   {
     "plmn": "36260",
@@ -21706,10 +21876,10 @@
     "lat": "18.04167",
     "long": "-63.06667",
     "brand": "FLOW",
-    "operator": "United Telecommunication Service N.V. (UTS)",
+    "operator": "Liberty Latin America",
     "status": "Operational",
     "bands": "UMTS 2100 / LTE 1800",
-    "notes": "Bonaire, Saba, Sint Eustatius, Sint Maarten; former Radcomm N.V."
+    "notes": "Bonaire, Saba, Sint Eustatius, Sint Maarten; former Radcomm N.V., UTS"
   },
   {
     "plmn": "36263",
@@ -21825,10 +21995,10 @@
     "lat": "18.04167",
     "long": "-63.06667",
     "brand": "FLOW",
-    "operator": "United Telecommunication Service N.V. (UTS)",
+    "operator": "Liberty Latin America",
     "status": "Operational",
     "bands": "GSM 900 / GSM 1800 / UMTS 850 / UMTS 2100 / LTE 1800",
-    "notes": "Curaçao; former Setel N.V."
+    "notes": "Curaçao; former Setel N.V., UTS"
   },
   {
     "plmn": "36294",
@@ -21914,6 +22084,23 @@
     "status": "Not operational",
     "bands": "iDEN",
     "notes": "US MCC; MNC withdrawn"
+  },
+  {
+    "plmn": "310260",
+    "nibbledPlmn": "130062",
+    "mcc": "310",
+    "mnc": "260",
+    "region": "North America and the Caribbean",
+    "type": "National",
+    "countryName": "Puerto Rico",
+    "countryCode": "PR",
+    "lat": "18.2482882",
+    "long": "-66.4998941",
+    "brand": "T-Mobile",
+    "operator": "T-Mobile US",
+    "status": "Operational",
+    "bands": "GSM 1900 / UMTS 1900 / UMTS 1700 / LTE 850 / LTE 700 / LTE 1900 / LTE 1700 / 5G 600",
+    "notes": "US MCC"
   },
   {
     "plmn": "310280",
@@ -22337,7 +22524,7 @@
     "brand": "Digicel",
     "operator": "Digicel (Turks & Caicos) Limited",
     "status": "Operational",
-    "bands": "GSM 900 / GSM 1800 / GSM 1900 / LTE 700",
+    "bands": "GSM 900 / GSM 1900 / LTE 700 / LTE 1700",
     "notes": null
   },
   {
@@ -22354,7 +22541,7 @@
     "brand": "FLOW",
     "operator": "Cable & Wireless West Indies Ltd (Turks & Caicos)",
     "status": "Operational",
-    "bands": "GSM 850 / UMTS 850 / LTE 700",
+    "bands": "GSM 850 / GSM 1900 / UMTS 850 / LTE 700",
     "notes": null
   },
   {
@@ -23120,7 +23307,7 @@
     "operator": "T-Mobile US",
     "status": "Operational",
     "bands": "GSM 1900 / UMTS 1900 / UMTS 1700 / LTE 850 / LTE 700 / LTE 1900 / LTE 1700 / 5G 600",
-    "notes": "Former Cook Inlet West Wireless, Voicestream; now universal USA code.  Also used for Ting."
+    "notes": "Former Cook Inlet West Wireless, Voicestream; now universal USA code.  Also used for Mint Mobile, Ting."
   },
   {
     "plmn": "310270",
@@ -23714,7 +23901,7 @@
     "brand": null,
     "operator": "Verizon Wireless",
     "status": "Unknown",
-    "bands": "Unknwon",
+    "bands": "Unknown",
     "notes": null
   },
   {
@@ -23731,7 +23918,7 @@
     "brand": null,
     "operator": "Verizon Wireless",
     "status": "Unknown",
-    "bands": "Unknwon",
+    "bands": "Unknown",
     "notes": null
   },
   {
@@ -23748,7 +23935,7 @@
     "brand": null,
     "operator": "Verizon Wireless",
     "status": "Unknown",
-    "bands": "Unknwon",
+    "bands": "Unknown",
     "notes": null
   },
   {
@@ -23765,7 +23952,7 @@
     "brand": null,
     "operator": "Verizon Wireless",
     "status": "Unknown",
-    "bands": "Unknwon",
+    "bands": "Unknown",
     "notes": null
   },
   {
@@ -23782,7 +23969,7 @@
     "brand": null,
     "operator": "Verizon Wireless",
     "status": "Unknown",
-    "bands": "Unknwon",
+    "bands": "Unknown",
     "notes": null
   },
   {
@@ -23799,7 +23986,7 @@
     "brand": null,
     "operator": "Verizon Wireless",
     "status": "Unknown",
-    "bands": "Unknwon",
+    "bands": "Unknown",
     "notes": null
   },
   {
@@ -23816,7 +24003,7 @@
     "brand": null,
     "operator": "Verizon Wireless",
     "status": "Unknown",
-    "bands": "Unknwon",
+    "bands": "Unknown",
     "notes": null
   },
   {
@@ -23833,7 +24020,7 @@
     "brand": null,
     "operator": "Verizon Wireless",
     "status": "Unknown",
-    "bands": "Unknwon",
+    "bands": "Unknown",
     "notes": null
   },
   {
@@ -23850,7 +24037,7 @@
     "brand": null,
     "operator": "Verizon Wireless",
     "status": "Unknown",
-    "bands": "Unknwon",
+    "bands": "Unknown",
     "notes": null
   },
   {
@@ -30070,7 +30257,7 @@
     "lat": "39.828175",
     "long": "-98.5795",
     "brand": "TCOE",
-    "operator": null,
+    "operator": "Tulare County Office of Education",
     "status": "Operational",
     "bands": "Unknown",
     "notes": "California"
@@ -30243,7 +30430,7 @@
     "operator": "Ericsson US",
     "status": "Unknown",
     "bands": "Unknown",
-    "notes": null
+    "notes": "EEC/ATL Private Networks"
   },
   {
     "plmn": "314010",
@@ -30413,7 +30600,7 @@
     "operator": "Liberty",
     "status": "Operational",
     "bands": "GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900",
-    "notes": "Formerly AT&T Mobility;Formerly Cingular Wireless"
+    "notes": "Formerly AT&T Mobility; Formerly Cingular Wireless"
   },
   {
     "plmn": "311470",
@@ -31109,7 +31296,7 @@
     "brand": "China Unicom",
     "operator": "China Unicom",
     "status": "Operational",
-    "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 1800 / TD-LTE 2300 / TD-LTE 2500 / 5G 3500",
+    "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 1800 / LTE 2100 / TD-LTE 2300 / TD-LTE 2500 / 5G 3500",
     "notes": "CDMA network sold to China Telecom"
   },
   {
@@ -31854,11 +32041,11 @@
     "countryCode": "IN",
     "lat": "20",
     "long": "77",
-    "brand": "V!",
+    "brand": "Vi India",
     "operator": "Haryana",
     "status": "Operational",
     "bands": "GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2100 / TD-LTE 2500",
-    "notes": null
+    "notes": "Former Vodafone India"
   },
   {
     "plmn": "40402",
@@ -31905,11 +32092,11 @@
     "countryCode": "IN",
     "lat": "20",
     "long": "77",
-    "brand": "V!",
+    "brand": "Vi India",
     "operator": "Delhi & NCR",
-    "status": "Operational",
+    "status": "Not operational",
     "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2500",
-    "notes": null
+    "notes": "Former IDEA"
   },
   {
     "plmn": "40405",
@@ -31922,7 +32109,7 @@
     "countryCode": "IN",
     "lat": "20",
     "long": "77",
-    "brand": "V!",
+    "brand": "Vi India",
     "operator": "Gujarat",
     "status": "Operational",
     "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2500",
@@ -31939,7 +32126,7 @@
     "countryCode": "IN",
     "lat": "20",
     "long": "77",
-    "brand": "V!",
+    "brand": "Vi India",
     "operator": "Andhra Pradesh and Telangana",
     "status": "Operational",
     "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2500",
@@ -31990,7 +32177,7 @@
     "countryCode": "IN",
     "lat": "20",
     "long": "77",
-    "brand": "V!",
+    "brand": "Vi India",
     "operator": "Delhi & NCR",
     "status": "Operational",
     "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2500",
@@ -32007,9 +32194,9 @@
     "countryCode": "IN",
     "lat": "20",
     "long": "77",
-    "brand": "V!",
+    "brand": "Vi India",
     "operator": "Haryana",
-    "status": "Operational",
+    "status": "Not operational",
     "bands": "GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2100 / TD-LTE 2500",
     "notes": "Former Escotel, IDEA"
   },
@@ -32024,9 +32211,9 @@
     "countryCode": "IN",
     "lat": "20",
     "long": "77",
-    "brand": "V!",
+    "brand": "Vi India",
     "operator": "Andhra Pradesh and Telangana",
-    "status": "Operational",
+    "status": "Not operational",
     "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2500",
     "notes": "Former Vodafone India"
   },
@@ -32041,7 +32228,7 @@
     "countryCode": "IN",
     "lat": "20",
     "long": "77",
-    "brand": "V!",
+    "brand": "Vi India",
     "operator": "Punjab",
     "status": "Operational",
     "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2500",
@@ -32058,7 +32245,7 @@
     "countryCode": "IN",
     "lat": "20",
     "long": "77",
-    "brand": "V!",
+    "brand": "Vi India",
     "operator": "Uttar Pradesh (East)",
     "status": "Operational",
     "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2500",
@@ -32126,9 +32313,9 @@
     "countryCode": "IN",
     "lat": "20",
     "long": "77",
-    "brand": "V!",
+    "brand": "Vi India",
     "operator": "Kerala",
-    "status": "Operational",
+    "status": "Not operational",
     "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE-2300 / TD-LTE 2500",
     "notes": "Former Escotel, IDEA"
   },
@@ -32143,7 +32330,7 @@
     "countryCode": "IN",
     "lat": "20",
     "long": "77",
-    "brand": "V!",
+    "brand": "Vi India",
     "operator": "Mumbai",
     "status": "Operational",
     "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2500",
@@ -32177,7 +32364,7 @@
     "countryCode": "IN",
     "lat": "20",
     "long": "77",
-    "brand": "V!",
+    "brand": "Vi India",
     "operator": "Maharashtra & Goa",
     "status": "Operational",
     "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2300 / TD-LTE 2500",
@@ -32194,9 +32381,9 @@
     "countryCode": "IN",
     "lat": "20",
     "long": "77",
-    "brand": "V!",
+    "brand": "Vi India",
     "operator": "Gujarat",
-    "status": "Operational",
+    "status": "Not operational",
     "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2500",
     "notes": "Former IDEA"
   },
@@ -32228,9 +32415,9 @@
     "countryCode": "IN",
     "lat": "20",
     "long": "77",
-    "brand": "V!",
+    "brand": "Vi India",
     "operator": "Maharashtra & Goa",
-    "status": "Operational",
+    "status": "Not operational",
     "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2300 / TD-LTE 2500",
     "notes": "Former Vodafone India"
   },
@@ -32279,7 +32466,7 @@
     "countryCode": "IN",
     "lat": "20",
     "long": "77",
-    "brand": "V!",
+    "brand": "Vi India",
     "operator": "Kolkata",
     "status": "Operational",
     "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2500",
@@ -32449,7 +32636,7 @@
     "countryCode": "IN",
     "lat": "20",
     "long": "77",
-    "brand": "V!",
+    "brand": "Vi India",
     "operator": "Tamil Nadu",
     "status": "Operational",
     "bands": "GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2100",
@@ -32466,9 +32653,9 @@
     "countryCode": "IN",
     "lat": "20",
     "long": "77",
-    "brand": "V!",
+    "brand": "Vi India",
     "operator": "Karnataka",
-    "status": "Operational",
+    "status": "Not operational",
     "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100",
     "notes": "Former Spice, IDEA"
   },
@@ -32500,7 +32687,7 @@
     "countryCode": "IN",
     "lat": "20",
     "long": "77",
-    "brand": "V!",
+    "brand": "Vi India",
     "operator": "Kerala",
     "status": "Operational",
     "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE-2300 / TD-LTE 2500",
@@ -32653,7 +32840,7 @@
     "countryCode": "IN",
     "lat": "20",
     "long": "77",
-    "brand": "V!",
+    "brand": "Vi India",
     "operator": "Uttar Pradesh (West)",
     "status": "Operational",
     "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2500",
@@ -32721,7 +32908,7 @@
     "countryCode": "IN",
     "lat": "20",
     "long": "77",
-    "brand": "V!",
+    "brand": "Vi India",
     "operator": "Rajasthan",
     "status": "Operational",
     "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2500",
@@ -32976,7 +33163,7 @@
     "countryCode": "IN",
     "lat": "20",
     "long": "77",
-    "brand": "V!",
+    "brand": "Vi India",
     "operator": "Madhya Pradesh & Chattishgarh",
     "status": "Operational",
     "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2300 / TD-LTE 2500",
@@ -33044,7 +33231,7 @@
     "countryCode": "IN",
     "lat": "20",
     "long": "77",
-    "brand": "V!",
+    "brand": "Vi India",
     "operator": "Himachal Pradesh",
     "status": "Operational",
     "bands": "GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2100 / TD-LTE 2500",
@@ -33078,9 +33265,9 @@
     "countryCode": "IN",
     "lat": "20",
     "long": "77",
-    "brand": "V!",
+    "brand": "Vi India",
     "operator": "Chennai",
-    "status": "Operational",
+    "status": "Not operational",
     "bands": "GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2100",
     "notes": "Former Vodafone India"
   },
@@ -33112,7 +33299,7 @@
     "countryCode": "IN",
     "lat": "20",
     "long": "77",
-    "brand": "V!",
+    "brand": "Vi India",
     "operator": "Karnataka",
     "status": "Operational",
     "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100",
@@ -33129,9 +33316,9 @@
     "countryCode": "IN",
     "lat": "20",
     "long": "77",
-    "brand": "V!",
+    "brand": "Vi India",
     "operator": "Rajasthan",
-    "status": "Operational",
+    "status": "Not operational",
     "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2500",
     "notes": "Former IDEA"
   },
@@ -33146,9 +33333,9 @@
     "countryCode": "IN",
     "lat": "20",
     "long": "77",
-    "brand": "V!",
+    "brand": "Vi India",
     "operator": "Punjab",
-    "status": "Operational",
+    "status": "Not operational",
     "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2500",
     "notes": "Former Vodafone India"
   },
@@ -33163,9 +33350,9 @@
     "countryCode": "IN",
     "lat": "20",
     "long": "77",
-    "brand": "V!",
+    "brand": "Vi India",
     "operator": "Uttar Pradesh (East)",
-    "status": "Operational",
+    "status": "Not operational",
     "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2500",
     "notes": "Former IDEA"
   },
@@ -34166,9 +34353,9 @@
     "countryCode": "IN",
     "lat": "20",
     "long": "77",
-    "brand": "V!",
+    "brand": "Vi India",
     "operator": "Uttar Pradesh (West)",
-    "status": "Operational",
+    "status": "Not operational",
     "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2500",
     "notes": "Former Vodafone India"
   },
@@ -34183,7 +34370,7 @@
     "countryCode": "IN",
     "lat": "20",
     "long": "77",
-    "brand": "V!",
+    "brand": "Vi India",
     "operator": "West Bengal",
     "status": "Operational",
     "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2500",
@@ -34200,7 +34387,7 @@
     "countryCode": "IN",
     "lat": "20",
     "long": "77",
-    "brand": "V!",
+    "brand": "Vi India",
     "operator": "Bihar & Jharkhand",
     "status": "Operational",
     "bands": "GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2100 / TD-LTE 2500",
@@ -34217,7 +34404,7 @@
     "countryCode": "IN",
     "lat": "20",
     "long": "77",
-    "brand": "V!",
+    "brand": "Vi India",
     "operator": "Jammu & Kashmir",
     "status": "Operational",
     "bands": "GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2100 / TD-LTE 2500",
@@ -34234,7 +34421,7 @@
     "countryCode": "IN",
     "lat": "20",
     "long": "77",
-    "brand": "V!",
+    "brand": "Vi India",
     "operator": "Assam",
     "status": "Operational",
     "bands": "GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2100 / TD-LTE 2500",
@@ -34251,9 +34438,9 @@
     "countryCode": "IN",
     "lat": "20",
     "long": "77",
-    "brand": "V!",
+    "brand": "Vi India",
     "operator": "Bihar & Jharkhand",
-    "status": "Operational",
+    "status": "Not operational",
     "bands": "GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2100 / TD-LTE 2500",
     "notes": "Former Vodafone India"
   },
@@ -34268,7 +34455,7 @@
     "countryCode": "IN",
     "lat": "20",
     "long": "77",
-    "brand": "V!",
+    "brand": "Vi India",
     "operator": "Odisha",
     "status": "Operational",
     "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2500",
@@ -34285,9 +34472,9 @@
     "countryCode": "IN",
     "lat": "20",
     "long": "77",
-    "brand": "V!",
+    "brand": "Vi India",
     "operator": "Himachal Pradesh",
-    "status": "Operational",
+    "status": "Not operational",
     "bands": "GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2100 / TD-LTE 2500",
     "notes": "Former Vodafone India"
   },
@@ -34302,7 +34489,7 @@
     "countryCode": "IN",
     "lat": "20",
     "long": "77",
-    "brand": "V!",
+    "brand": "Vi India",
     "operator": "North East",
     "status": "Operational",
     "bands": "GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2100 / TD-LTE 2500",
@@ -34319,9 +34506,9 @@
     "countryCode": "IN",
     "lat": "20",
     "long": "77",
-    "brand": "V!",
+    "brand": "Vi India",
     "operator": "Madhya Pradesh & Chhattisgarh",
-    "status": "Operational",
+    "status": "Not operational",
     "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2300 / TD-LTE 2500",
     "notes": "Former Vodafone India"
   },
@@ -34336,9 +34523,9 @@
     "countryCode": "IN",
     "lat": "20",
     "long": "77",
-    "brand": "V!",
+    "brand": "Vi India",
     "operator": "Mumbai",
-    "status": "Operational",
+    "status": "Not operational",
     "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2500",
     "notes": "Former IDEA"
   },
@@ -34744,9 +34931,9 @@
     "countryCode": "IN",
     "lat": "20",
     "long": "77",
-    "brand": "V!",
+    "brand": "Vi India",
     "operator": "Assam",
-    "status": "Operational",
+    "status": "Not operational",
     "bands": "GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2100 / TD-LTE 2500",
     "notes": "Former IDEA"
   },
@@ -34761,9 +34948,9 @@
     "countryCode": "IN",
     "lat": "20",
     "long": "77",
-    "brand": "V!",
+    "brand": "Vi India",
     "operator": "Jammu & Kashmir",
-    "status": "Operational",
+    "status": "Not operational",
     "bands": "GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2100 / TD-LTE 2500",
     "notes": "Former IDEA"
   },
@@ -34778,9 +34965,9 @@
     "countryCode": "IN",
     "lat": "20",
     "long": "77",
-    "brand": "V!",
+    "brand": "Vi India",
     "operator": "Karnataka",
-    "status": "Operational",
+    "status": "Not operational",
     "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100",
     "notes": "Former IDEA"
   },
@@ -34795,9 +34982,9 @@
     "countryCode": "IN",
     "lat": "20",
     "long": "77",
-    "brand": "V!",
+    "brand": "Vi India",
     "operator": "Kolkata",
-    "status": "Operational",
+    "status": "Not operational",
     "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2500",
     "notes": "Former IDEA"
   },
@@ -34812,9 +34999,9 @@
     "countryCode": "IN",
     "lat": "20",
     "long": "77",
-    "brand": "V!",
+    "brand": "Vi India",
     "operator": "North East",
-    "status": "Operational",
+    "status": "Not operational",
     "bands": "GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2100 / TD-LTE 2500",
     "notes": "Former IDEA"
   },
@@ -34829,9 +35016,9 @@
     "countryCode": "IN",
     "lat": "20",
     "long": "77",
-    "brand": "V!",
+    "brand": "Vi India",
     "operator": "Odisha",
-    "status": "Operational",
+    "status": "Not operational",
     "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2500",
     "notes": "Former IDEA"
   },
@@ -34846,9 +35033,9 @@
     "countryCode": "IN",
     "lat": "20",
     "long": "77",
-    "brand": "V!",
+    "brand": "Vi India",
     "operator": "Punjab",
-    "status": "Operational",
+    "status": "Not operational",
     "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2500",
     "notes": "Former IDEA"
   },
@@ -34863,9 +35050,9 @@
     "countryCode": "IN",
     "lat": "20",
     "long": "77",
-    "brand": "V!",
+    "brand": "Vi India",
     "operator": "Tamil Nadu",
-    "status": "Operational",
+    "status": "Not operational",
     "bands": "GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2100",
     "notes": "Former IDEA"
   },
@@ -34880,9 +35067,9 @@
     "countryCode": "IN",
     "lat": "20",
     "long": "77",
-    "brand": "V!",
+    "brand": "Vi India",
     "operator": "West Bengal",
-    "status": "Operational",
+    "status": "Not operational",
     "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2500",
     "notes": "Former IDEA"
   },
@@ -35305,7 +35492,7 @@
     "countryCode": "IN",
     "lat": "20",
     "long": "77",
-    "brand": "V!",
+    "brand": "Vi India",
     "operator": "Andhra Pradesh and Telangana",
     "status": "Operational",
     "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2500",
@@ -35322,9 +35509,9 @@
     "countryCode": "IN",
     "lat": "20",
     "long": "77",
-    "brand": "V!",
+    "brand": "Vi India",
     "operator": "Delhi",
-    "status": "Operational",
+    "status": "Not operational",
     "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2500",
     "notes": "Former IDEA"
   },
@@ -35339,9 +35526,9 @@
     "countryCode": "IN",
     "lat": "20",
     "long": "77",
-    "brand": "V!",
+    "brand": "Vi India",
     "operator": "Haryana",
-    "status": "Operational",
+    "status": "Not operational",
     "bands": "GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2100 / TD-LTE 2500",
     "notes": "Former IDEA"
   },
@@ -35356,7 +35543,7 @@
     "countryCode": "IN",
     "lat": "20",
     "long": "77",
-    "brand": "V!",
+    "brand": "Vi India",
     "operator": "Maharashtra",
     "status": "Operational",
     "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2300 / TD-LTE 2500",
@@ -35686,6 +35873,23 @@
     "notes": null
   },
   {
+    "plmn": "43245",
+    "nibbledPlmn": "34F254",
+    "mcc": "432",
+    "mnc": "45",
+    "region": "Asia and the Middle East",
+    "type": "National",
+    "countryName": "Iran",
+    "countryCode": "IR",
+    "lat": "32",
+    "long": "53",
+    "brand": "Zi-Tel",
+    "operator": "Farabord Dadeh Haye Iranian Co.",
+    "status": "Operational",
+    "bands": "TD-LTE",
+    "notes": null
+  },
+  {
     "plmn": "43250",
     "nibbledPlmn": "34F205",
     "mcc": "432",
@@ -35699,7 +35903,7 @@
     "brand": "Shatel Mobile",
     "operator": "Shatel Group",
     "status": "Operational",
-    "bands": "TD-LTE 2600 MHz",
+    "bands": "TD-LTE 2600 MHz",
     "notes": null
   },
   {
@@ -37127,7 +37331,7 @@
     "brand": "Tele2.kz",
     "operator": "MTS",
     "status": "Operational",
-    "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100",
+    "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / 5G",
     "notes": "Called Mobile Telecom Service before its acquisition by Tele2"
   },
   {
@@ -37280,8 +37484,8 @@
     "brand": "LG U+",
     "operator": "LG Telecom",
     "status": "Operational",
-    "bands": "CDMA 1800 / LTE 850 / LTE 2100 / LTE 2600 / 5G 3500 / 5G 28000",
-    "notes": null
+    "bands": "LTE 850 / LTE 2100 / LTE 2600 / 5G 3500 / 5G 28000",
+    "notes": "CDMA 1800 shut down June 2021"
   },
   {
     "plmn": "45007",
@@ -37554,6 +37758,23 @@
     "status": "Operational",
     "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800",
     "notes": "Former Lao-Asia Telecom Company (LAT); owned by Viettel"
+  },
+  {
+    "plmn": "45707",
+    "nibbledPlmn": "54F770",
+    "mcc": "457",
+    "mnc": "07",
+    "region": "Asia and the Middle East",
+    "type": "National",
+    "countryName": "Laos",
+    "countryCode": "LA",
+    "lat": "18",
+    "long": "105",
+    "brand": "Best",
+    "operator": "Best Telecom Co., Ltd",
+    "status": "Operational",
+    "bands": "GSM 900 / GSM 1800 / UMTS 2100",
+    "notes": null
   },
   {
     "plmn": "45708",
@@ -38096,7 +38317,7 @@
     "brand": "Ncell",
     "operator": "Ncell Pvt. Ltd.",
     "status": "Operational",
-    "bands": "GSM 900 / UMTS 2100 / LTE 1800",
+    "bands": "GSM 900 / UMTS 2100 / LTE 900 / LTE 1800",
     "notes": null
   },
   {
@@ -38623,7 +38844,7 @@
     "brand": "Airtel",
     "operator": "Bharti Airtel Lanka (Pvt) Ltd",
     "status": "Operational",
-    "bands": "GSM 900 / GSM 1800 / UMTS 2100",
+    "bands": "GSM 900 / GSM 1800 / LTE 850 / LTE 2100 / TD-LTE 2500",
     "notes": null
   },
   {
@@ -39694,7 +39915,7 @@
     "brand": "Telstra",
     "operator": "Telstra Corporation Limited",
     "status": "Operational",
-    "bands": "UMTS 850 / LTE 700 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 3500",
+    "bands": "UMTS 850 / LTE 700 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 850 / 5G 3500 / 5G 28000",
     "notes": "LTE bands 28 / 8 / 3 / 1 / 7; GSM shut down 1 December 2016; UMTS 2100 shut down 25 March 2019"
   },
   {
@@ -39728,7 +39949,7 @@
     "brand": "Vodafone",
     "operator": "Vodafone Hutchison Australia Pty Ltd",
     "status": "Operational",
-    "bands": "UMTS 900 / UMTS 2100 / LTE 850 / LTE 1800 / LTE 2100 / 5G 3500",
+    "bands": "UMTS 900 / UMTS 2100 / LTE 850 / LTE 1800 / LTE 2100 / 5G 700 / 5G 3500",
     "notes": "LTE bands 5 / 3 / 1; GSM shut down 30 April 2018"
   },
   {
@@ -40565,6 +40786,23 @@
     "notes": null
   },
   {
+    "plmn": "50554",
+    "nibbledPlmn": "05F545",
+    "mcc": "505",
+    "mnc": "54",
+    "region": "Oceania",
+    "type": "National",
+    "countryName": "Australia",
+    "countryCode": "AU/CC/CX",
+    "lat": "-10.5",
+    "long": "105.666667",
+    "brand": null,
+    "operator": "Nokia Solutions and Networks Australia Pty Ltd",
+    "status": "Unknown",
+    "bands": "Unknown",
+    "notes": null
+  },
+  {
     "plmn": "50561",
     "nibbledPlmn": "05F516",
     "mcc": "505",
@@ -40967,7 +41205,7 @@
     "lat": "-5",
     "long": "120",
     "brand": "PSN",
-    "operator": "PT Pasifik Satelit Nusantara (ACeS)",
+    "operator": "PT Pasifik Satelit Nusantara",
     "status": "Operational",
     "bands": "Satellite",
     "notes": null
@@ -40984,27 +41222,10 @@
     "lat": "-5",
     "long": "120",
     "brand": "Indosat Ooredoo",
-    "operator": "PT Indonesian Satellite Corporation Tbk (INDOSAT)",
-    "status": "Operational",
-    "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800",
-    "notes": "Former PT Satelindo"
-  },
-  {
-    "plmn": "51003",
-    "nibbledPlmn": "15F030",
-    "mcc": "510",
-    "mnc": "03",
-    "region": "Oceania",
-    "type": "National",
-    "countryName": "Indonesia",
-    "countryCode": "ID",
-    "lat": "-5",
-    "long": "120",
-    "brand": "StarOne",
     "operator": "PT Indosat Tbk",
-    "status": "Not operational",
-    "bands": "CDMA 800",
-    "notes": "Shut down on 30 June 2015"
+    "status": "Operational",
+    "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800 / 5G 1800",
+    "notes": "Former PT Satelindo"
   },
   {
     "plmn": "51007",
@@ -41018,7 +41239,7 @@
     "lat": "-5",
     "long": "120",
     "brand": "TelkomFlexi",
-    "operator": "PT Telkom",
+    "operator": "PT Telkom Indonesia Tbk",
     "status": "Not operational",
     "bands": "CDMA 800",
     "notes": "Network shut down end of 2015"
@@ -41088,7 +41309,7 @@
     "brand": "XL",
     "operator": "PT XL Axiata Tbk",
     "status": "Operational",
-    "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800",
+    "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / 5G 1800 / 5G 2100",
     "notes": null
   },
   {
@@ -41120,7 +41341,7 @@
     "lat": "-5",
     "long": "120",
     "brand": "IM3",
-    "operator": "PT Indonesian Satellite Corporation Tbk (INDOSAT)",
+    "operator": "PT Indosat Tbk",
     "status": "Not operational",
     "bands": "GSM 1800",
     "notes": "Merged with Indosat (MNC 01), MNC 21 no longer used"
@@ -41205,7 +41426,7 @@
     "lat": "-5",
     "long": "120",
     "brand": "3",
-    "operator": "PT Hutchison CP Telecommunications",
+    "operator": "PT Hutchison 3 Indonesia",
     "status": "Operational",
     "bands": "GSM 1800 / UMTS 2100 / LTE 1800",
     "notes": null
@@ -41976,6 +42197,23 @@
     "notes": "LTE band 28"
   },
   {
+    "plmn": "53704",
+    "nibbledPlmn": "35F740",
+    "mcc": "537",
+    "mnc": "04",
+    "region": "Oceania",
+    "type": "National",
+    "countryName": "Papua New Guinea",
+    "countryCode": "PG",
+    "lat": "-6",
+    "long": "147",
+    "brand": null,
+    "operator": "Digitec Communication Ltd.",
+    "status": "Unknown",
+    "bands": "Unknown",
+    "notes": null
+  },
+  {
     "plmn": "51501",
     "nibbledPlmn": "15F510",
     "mcc": "515",
@@ -42193,7 +42431,7 @@
     "brand": "SingTel",
     "operator": "Singapore Telecom",
     "status": "Operational",
-    "bands": "UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2600 / 5G 3500 / 5G 28000",
+    "bands": "UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2600 / 5G 2100 / 5G 3500 / 5G 28000",
     "notes": "GSM shut down on 1 April 2017"
   },
   {
@@ -42227,7 +42465,7 @@
     "brand": "M1",
     "operator": "M1 Limited",
     "status": "Operational",
-    "bands": "UMTS 900 / UMTS 2100 / LTE 1800 / LTE 2600 / 5G 2100",
+    "bands": "UMTS 900 / UMTS 2100 / LTE 1800 / LTE 2600 / 5G 2100 / 5G 3500",
     "notes": "GSM shut down on 1 April 2017"
   },
   {
@@ -42244,7 +42482,7 @@
     "brand": "StarHub",
     "operator": "StarHub Mobile",
     "status": "Operational",
-    "bands": "UMTS 900 / UMTS 2100 / LTE 1800 / LTE 2100 / LTE 2600 / TD-LTE 2500 / 5G 3500",
+    "bands": "UMTS 900 / UMTS 2100 / LTE 1800 / LTE 2100 / LTE 2600 / TD-LTE 2500 / 5G 2100 / 5G 3500",
     "notes": "GSM shut down on 1 April 2017"
   },
   {
@@ -45372,7 +45610,7 @@
     "brand": "Mattel",
     "operator": "Mattel",
     "status": "Operational",
-    "bands": "GSM 900",
+    "bands": "GSM 900 / LTE",
     "notes": null
   },
   {
@@ -45389,7 +45627,7 @@
     "brand": "Chinguitel",
     "operator": "Chinguitel",
     "status": "Operational",
-    "bands": "GSM 900 / GSM 1800 / UMTS 2100",
+    "bands": "CDMA / GSM 900 / GSM 1800 / UMTS 2100 / LTE",
     "notes": null
   },
   {
@@ -45403,10 +45641,10 @@
     "countryCode": "MR",
     "lat": "20",
     "long": "-12",
-    "brand": "Mauritel",
+    "brand": "Moov",
     "operator": "Mauritel Mobiles",
     "status": "Operational",
-    "bands": "GSM 900",
+    "bands": "GSM 900 / UMTS 2100 / LTE 1800",
     "notes": null
   },
   {
@@ -45423,7 +45661,7 @@
     "brand": "my.t",
     "operator": "Cellplus Mobile Communications Ltd.",
     "status": "Operational",
-    "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800",
+    "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / 5G 3500",
     "notes": "Former Orange"
   },
   {
@@ -46715,7 +46953,7 @@
     "brand": "Vodacom",
     "operator": "Vodacom",
     "status": "Operational",
-    "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / LTE 5200 / LTE 5800",
+    "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / LTE 5200 / LTE 5800 / 5G 700 / 5G 3500",
     "notes": null
   },
   {
@@ -46734,6 +46972,23 @@
     "status": "Operational",
     "bands": "GSM 1800 / UMTS 2100 / LTE 1800 / TD-LTE 2300",
     "notes": "Formerly Telkom Mobile, 8ta"
+  },
+  {
+    "plmn": "65503",
+    "nibbledPlmn": "56F530",
+    "mcc": "655",
+    "mnc": "03",
+    "region": "Africa",
+    "type": "National",
+    "countryName": "South Africa",
+    "countryCode": "ZA",
+    "lat": "-30",
+    "long": "26",
+    "brand": "Telkom",
+    "operator": "Telkom SA SOC Ltd",
+    "status": "Unknown",
+    "bands": "Unknown",
+    "notes": null
   },
   {
     "plmn": "65504",
@@ -46817,7 +47072,7 @@
     "brand": "MTN",
     "operator": "MTN Group",
     "status": "Operational",
-    "bands": "GSM 900 / UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100",
+    "bands": "GSM 900 / UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / 5G 700 / 5G 1800 / 5G 2100 / 5G 3500 / 5G 28000",
     "notes": null
   },
   {
@@ -47328,6 +47583,23 @@
     "operator": "Comsol Networks (Pty) Ltd",
     "status": "Operational",
     "bands": "WiMAX / 28000",
+    "notes": null
+  },
+  {
+    "plmn": "65577",
+    "nibbledPlmn": "56F577",
+    "mcc": "655",
+    "mnc": "77",
+    "region": "Africa",
+    "type": "National",
+    "countryName": "South Africa",
+    "countryCode": "ZA",
+    "lat": "-30",
+    "long": "26",
+    "brand": "Umoja Connect",
+    "operator": "One Telecom (Pty) Ltd",
+    "status": "Unknown",
+    "bands": "5G",
     "notes": null
   },
   {
@@ -48006,9 +48278,26 @@
     "long": "33",
     "brand": "Smart",
     "operator": "Suretelecom Uganda Ltd.",
-    "status": "Operational",
+    "status": "Not operational",
     "bands": "GSM 900 / GSM 1800 / UMTS 2100",
-    "notes": null
+    "notes": "MNC withdrawn"
+  },
+  {
+    "plmn": "64120",
+    "nibbledPlmn": "46F102",
+    "mcc": "641",
+    "mnc": "20",
+    "region": "Africa",
+    "type": "National",
+    "countryName": "Uganda",
+    "countryCode": "UG",
+    "lat": "2",
+    "long": "33",
+    "brand": null,
+    "operator": "Hamilton Telecom Limited",
+    "status": "Not operational",
+    "bands": "Unknown",
+    "notes": "MNC withdrawn"
   },
   {
     "plmn": "64122",
@@ -48381,7 +48670,7 @@
     "brand": "Personal",
     "operator": "Telecom Personal S.A.",
     "status": "Operational",
-    "bands": "GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 / LTE 700 / LTE 1700 / LTE 2600 / 5G",
+    "bands": "GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 / LTE 700 / LTE 1700 / LTE 2600 / 5G 2600",
     "notes": "LTE bands 28 / 4 / 7"
   },
   {
@@ -49946,7 +50235,7 @@
     "operator": "Virtualis S.A.",
     "status": "Not operational",
     "bands": "MVNO",
-    "notes": "Closed on 06 February 2019"
+    "notes": "Closed on 6 February 2019"
   },
   {
     "plmn": "74000",
@@ -50452,11 +50741,11 @@
     "countryCode": "NI",
     "lat": "13",
     "long": "-85",
-    "brand": "movistar",
-    "operator": "Telefonía Celular de Nicaragua, S.A. (Telefónica, S.A.)",
+    "brand": "Tigo",
+    "operator": "Telefonía Celular de Nicaragua, S.A.",
     "status": "Operational",
     "bands": "GSM 850 / GSM 1900 / UMTS 850 / LTE 1900",
-    "notes": "CDMA 800, TDMA 800, and NAMPS 800 have been shut down"
+    "notes": "Former movistar; CDMA 800, TDMA 800, and NAMPS 800 have been shut down"
   },
   {
     "plmn": "71073",
@@ -50489,8 +50778,8 @@
     "brand": "Cable & Wireless",
     "operator": "Cable & Wireless Panama S.A.",
     "status": "Operational",
-    "bands": "GSM 850 / UMTS 850 / LTE 700",
-    "notes": "LTE band 28"
+    "bands": "GSM 850 / UMTS 850 / LTE 700 / LTE 1900",
+    "notes": "LTE band 28 / 2"
   },
   {
     "plmn": "71402",
@@ -50503,11 +50792,11 @@
     "countryCode": "PA",
     "lat": "9",
     "long": "-80",
-    "brand": "movistar",
-    "operator": "Telefónica Moviles Panama S.A, Bell South Corp. (BSC)",
+    "brand": "Tigo",
+    "operator": "Telefónica Moviles de Panama S.A",
     "status": "Operational",
-    "bands": "GSM 850 / UMTS 850 / UMTS 1900 / LTE 700",
-    "notes": "CDMA2000 800, TDMA 800 and NAMPS 800 are closed."
+    "bands": "GSM 850 / UMTS 850 / UMTS 1900 / LTE 700 / LTE 1700 / LTE 1900",
+    "notes": "Former movistar, Bell South Corp. (BSC); CDMA 800, TDMA 800 and NAMPS 800 are closed."
   },
   {
     "plmn": "714020",
@@ -50520,11 +50809,11 @@
     "countryCode": "PA",
     "lat": "9",
     "long": "-80",
-    "brand": "movistar",
+    "brand": "Tigo",
     "operator": "Telefónica Móviles de Panama S.A",
     "status": "Operational",
-    "bands": "GSM 850 / 3G 2100 / LTE 700",
-    "notes": null
+    "bands": "GSM 850 / LTE 700",
+    "notes": "Former movistar"
   },
   {
     "plmn": "71403",
@@ -50541,7 +50830,7 @@
     "operator": "América Móvil",
     "status": "Operational",
     "bands": "GSM 1900 / UMTS 1900 / LTE 700 / LTE 1900",
-    "notes": "LTE bands 28 / 2"
+    "notes": "Being acquired by C&W; LTE bands 28 / 2"
   },
   {
     "plmn": "71404",
@@ -50761,7 +51050,7 @@
     "brand": "Telesur",
     "operator": "Telecommunications Company Suriname (Telesur)",
     "status": "Operational",
-    "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 700 / LTE 1800 / 5G",
+    "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 700 / LTE 1800 / 5G 3700",
     "notes": "LTE bands 28, 3"
   },
   {
