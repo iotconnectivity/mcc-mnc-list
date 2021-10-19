@@ -375,7 +375,7 @@
   },
   {
     "plmn": "74601",
-    "nibbledPlmn": "",
+    "nibbledPlmn": "47F610",
     "mcc": "746",
     "mnc": "01",
     "region": "South and Central America",
@@ -732,7 +732,7 @@
   },
   {
     "plmn": "73212",
-    "nibbledPlmn": "",
+    "nibbledPlmn": "37F221",
     "mcc": "732",
     "mnc": "12",
     "region": "South and Central America",
@@ -749,7 +749,7 @@
   },
   {
     "plmn": "334140",
-    "nibbledPlmn": "",
+    "nibbledPlmn": "330441",
     "mcc": "334",
     "mnc": "140",
     "region": "North America and the Caribbean",
@@ -766,7 +766,7 @@
   },
   {
     "plmn": "310110",
-    "nibbledPlmn": "",
+    "nibbledPlmn": "130011",
     "mcc": "310",
     "mnc": "110",
     "region": "North America and the Caribbean",
