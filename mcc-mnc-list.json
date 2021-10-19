@@ -392,7 +392,7 @@
   },
   {
     "plmn": "42501",
-    "nibbledPlmn": "24,510",
+    "nibbledPlmn": "24F510",
     "mcc": "425",
     "mnc": "01",
     "region": "Asia and the Middle East",
@@ -12832,7 +12832,7 @@
     "lat": "52",
     "long": "20",
     "brand": "Orange",
-    "operator": "Polska Telefonia Komórkowa Centertel Sp. z o.o.",
+    "operator": "Orange Polska S.A.",
     "status": "Operational",
     "bands": "GSM 900 / UMTS 900 / UMTS 2100 / LTE 1800 / LTE 2100 / 5G 2100",
     "notes": "former Idea; see MNC 260-34 for shared LTE network; CDMA 450 shut down April 2017"
@@ -12866,7 +12866,7 @@
     "lat": "52",
     "long": "20",
     "brand": "Orange",
-    "operator": "Polska Telefonia Komórkowa Centertel Sp. z o.o.",
+    "operator": "Orange Polska S.A.",
     "status": "Not operational",
     "bands": "UMTS 2100",
     "notes": "not in use, using MNC 03"
@@ -13887,7 +13887,7 @@
     "long": "-8",
     "brand": "MEO",
     "operator": "MEO - Serviços de Comunicações e Multimédia, S.A.",
-    "status": "Unknown",
+    "status": "Operational",
     "bands": "Unknown",
     "notes": null
   },
@@ -17479,6 +17479,40 @@
     "notes": null
   },
   {
+    "plmn": "22869",
+    "nibbledPlmn": "22F896",
+    "mcc": "228",
+    "mnc": "69",
+    "region": "Europe",
+    "type": "National",
+    "countryName": "Switzerland",
+    "countryCode": "CH",
+    "lat": "47",
+    "long": "8",
+    "brand": null,
+    "operator": "MTEL Schweiz GmbH",
+    "status": "Unknown",
+    "bands": "Unknown",
+    "notes": null
+  },
+  {
+    "plmn": "22870",
+    "nibbledPlmn": "22F807",
+    "mcc": "228",
+    "mnc": "70",
+    "region": "Europe",
+    "type": "National",
+    "countryName": "Switzerland",
+    "countryCode": "CH",
+    "lat": "47",
+    "long": "8",
+    "brand": null,
+    "operator": "Tismi BV",
+    "status": "Unknown",
+    "bands": "Unknown",
+    "notes": null
+  },
+  {
     "plmn": "22899",
     "nibbledPlmn": "22F899",
     "mcc": "228",
@@ -19498,7 +19532,7 @@
     "brand": "Xplornet",
     "operator": "Xplornet Communications",
     "status": "Operational",
-    "bands": "TD-LTE 3500 / WiMAX",
+    "bands": "TD-LTE 3500 / WiMAX / 5G 3500",
     "notes": null
   },
   {
@@ -19515,7 +19549,7 @@
     "brand": "Xplornet",
     "operator": "Xplornet Communications",
     "status": "Operational",
-    "bands": "TD-LTE 3500 / WiMAX",
+    "bands": "TD-LTE 3500 / WiMAX / 5G 3500",
     "notes": null
   },
   {
@@ -21760,6 +21794,40 @@
     "operator": "Oxio Mobile, S.A. de C.V.",
     "status": "Unknown",
     "bands": "MVNO",
+    "notes": null
+  },
+  {
+    "plmn": "334180",
+    "nibbledPlmn": "330481",
+    "mcc": "334",
+    "mnc": "180",
+    "region": "North America and the Caribbean",
+    "type": "National",
+    "countryName": "Mexico",
+    "countryCode": "MX",
+    "lat": "23",
+    "long": "-102",
+    "brand": "FreedomPop",
+    "operator": "FREEDOMPOP MÉXICO, S.A. DE C.V.",
+    "status": "Operational",
+    "bands": "MVNO",
+    "notes": null
+  },
+  {
+    "plmn": "334190",
+    "nibbledPlmn": "330491",
+    "mcc": "334",
+    "mnc": "190",
+    "region": "North America and the Caribbean",
+    "type": "National",
+    "countryName": "Mexico",
+    "countryCode": "MX",
+    "lat": "23",
+    "long": "-102",
+    "brand": "Viasat",
+    "operator": "VIASAT TECNOLOGÍA, S.A. DE C.V.",
+    "status": "Operational",
+    "bands": "Satellite",
     "notes": null
   },
   {
@@ -24905,7 +24973,7 @@
     "operator": "Chariton Valley Communications",
     "status": "Operational",
     "bands": "CDMA2000 850 / CDMA2000 1900",
-    "notes": "Missouri"
+    "notes": "Missouri; being acquired by Verizon Wireless"
   },
   {
     "plmn": "311012",
@@ -24939,7 +25007,7 @@
     "operator": "Missouri RSA 5 Partnership",
     "status": "Operational",
     "bands": "GSM 850",
-    "notes": "Missouri"
+    "notes": "Missouri; being acquired by Verizon Wireless"
   },
   {
     "plmn": "311030",
@@ -26945,7 +27013,7 @@
     "operator": "Missouri RSA 5 Partnership",
     "status": "Unknown",
     "bands": "Unknown",
-    "notes": "Missouri"
+    "notes": "Missouri; being acquired by Verizon Wireless"
   },
   {
     "plmn": "311930",
@@ -27081,7 +27149,7 @@
     "operator": "Chariton Valley Communications Corporation, Inc",
     "status": "Unknown",
     "bands": "Unknown",
-    "notes": "Missouri"
+    "notes": "Missouri; being acquired by Verizon Wireless"
   },
   {
     "plmn": "312020",
@@ -27438,7 +27506,7 @@
     "operator": "Chariton Valley Communications Corporation, Inc.",
     "status": "Operational",
     "bands": "LTE 700",
-    "notes": null
+    "notes": "being acquired by Verizon Wireless"
   },
   {
     "plmn": "312230",
@@ -27659,7 +27727,7 @@
     "operator": "Triangle Communication System Inc.",
     "status": "Operational",
     "bands": "LTE 700",
-    "notes": "Montana"
+    "notes": "Montana; being acquired by Verizon Wireless"
   },
   {
     "plmn": "312360",
@@ -28305,7 +28373,7 @@
     "operator": "Triangle Communication System Inc.",
     "status": "Operational",
     "bands": "CDMA",
-    "notes": "Montana"
+    "notes": "Montana; being acquired by Verizon Wireless"
   },
   {
     "plmn": "312740",
@@ -37583,7 +37651,7 @@
     "countryCode": "KW",
     "lat": "29.5",
     "long": "47.75",
-    "brand": "K.S.C Ooredoo",
+    "brand": "Ooredoo",
     "operator": "National Mobile Telecommunications",
     "status": "Operational",
     "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / 5G 3500",
@@ -38382,7 +38450,7 @@
     "countryCode": "OM",
     "lat": "21",
     "long": "57",
-    "brand": "ooredoo",
+    "brand": "Ooredoo",
     "operator": "Omani Qatari Telecommunications Company SAOC",
     "status": "Operational",
     "bands": "GSM 900 / GSM 1800 / UMTS 900 / LTE 800 / LTE 1800 / TD-LTE 2300 / 5G 3500",
@@ -38572,7 +38640,7 @@
     "brand": "Jawwal",
     "operator": "Palestine Cellular Communications, Ltd.",
     "status": "Operational",
-    "bands": "GSM 900",
+    "bands": "GSM 900 / UMTS 2100",
     "notes": null
   },
   {
@@ -38586,11 +38654,11 @@
     "countryCode": "PS",
     "lat": "31.425074",
     "long": "34.373398",
-    "brand": "Wataniya",
-    "operator": "Wataniya Palestine Mobile Telecommunications Company",
+    "brand": "Ooredoo",
+    "operator": "Ooredoo Palestine",
     "status": "Operational",
-    "bands": "GSM 900 / GSM 1800",
-    "notes": "[2] (Ooredoo)"
+    "bands": "GSM 900 / GSM 1800 / UMTS 2100",
+    "notes": "Former Wataniya"
   },
   {
     "plmn": "42701",
@@ -38603,8 +38671,8 @@
     "countryCode": "QA",
     "lat": "25.5",
     "long": "51.25",
-    "brand": "ooredoo",
-    "operator": "ooredoo",
+    "brand": "Ooredoo",
+    "operator": "Ooredoo",
     "status": "Operational",
     "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 / 5G 3500",
     "notes": "Former Qtel (Qatar Telecom)"
@@ -41228,6 +41296,23 @@
     "notes": "Former PT Satelindo"
   },
   {
+    "plmn": "51003",
+    "nibbledPlmn": "15F030",
+    "mcc": "510",
+    "mnc": "03",
+    "region": "Oceania",
+    "type": "National",
+    "countryName": "Indonesia",
+    "countryCode": "ID",
+    "lat": "-5",
+    "long": "120",
+    "brand": "StarOne",
+    "operator": "PT Indosat Tbk",
+    "status": "Not operational",
+    "bands": "CDMA 800",
+    "notes": "Shut down on 30 June 2015"
+  },
+  {
     "plmn": "51007",
     "nibbledPlmn": "15F070",
     "mcc": "510",
@@ -41921,7 +42006,7 @@
     "brand": "Vodafone",
     "operator": "Vodafone New Zealand",
     "status": "Operational",
-    "bands": "GSM 900 / UMTS 900 / UMTS 2100 / LTE 700 / LTE 1800 / LTE 2600 / 5G 3500",
+    "bands": "GSM 900 / UMTS 900 / UMTS 2100 / LTE 700 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 3500",
     "notes": "UMTS 2100 is used in urban areas. UMTS 900 is referred to as \"3G extended\" and used in rural areas."
   },
   {
@@ -42040,7 +42125,7 @@
     "brand": "2degrees",
     "operator": "2degrees",
     "status": "Operational",
-    "bands": "UMTS 900 / UMTS 2100 / LTE 700 / LTE 900 / LTE 1800",
+    "bands": "UMTS 900 / UMTS 2100 / LTE 700 / LTE 900 / LTE 1800 / LTE 2100",
     "notes": "GSM shut down in March 2018"
   },
   {
@@ -42649,11 +42734,11 @@
     "countryCode": "TH",
     "lat": "15",
     "long": "100",
-    "brand": "TrueMove H / my by CAT",
-    "operator": "National Telecom Public Company Limited  (CAT Telecom)",
+    "brand": "TrueMove H / my by NT",
+    "operator": "National Telecom Public Company Limited",
     "status": "Operational",
     "bands": "UMTS 850",
-    "notes": "Former Hutch Thailand; inbound roaming for TrueMove H"
+    "notes": "Former Hutch Thailand, CAT Telecom; inbound roaming for TrueMove H"
   },
   {
     "plmn": "52001",
@@ -42684,7 +42769,7 @@
     "lat": "15",
     "long": "100",
     "brand": "CAT CDMA",
-    "operator": "National Telecom Public Company Limited  (CAT Telecom)",
+    "operator": "CAT Telecom",
     "status": "Not operational",
     "bands": "CDMA 800",
     "notes": "Shut down in April 2013; frequency re-farmed for UMTS 850 network 520-00"
@@ -42768,11 +42853,11 @@
     "countryCode": "TH",
     "lat": "15",
     "long": "100",
-    "brand": "AIS-T / TOT Mobile",
-    "operator": "National Telecom Public Company Limited  (TOT Public Company Limited)",
+    "brand": "AIS-T / NT Mobile",
+    "operator": "National Telecom Public Company Limited",
     "status": "Operational",
     "bands": "UMTS 2100 / LTE 2100",
-    "notes": "Former Thaimobile 1900, ACT Mobile"
+    "notes": "Former Thaimobile 1900, ACT Mobile, TOT Public Company Limited; used for NT Mobile, AIS-T and MVNO"
   },
   {
     "plmn": "52017",
@@ -42785,11 +42870,11 @@
     "countryCode": "TH",
     "lat": "15",
     "long": "100",
-    "brand": "TOT Mobile",
-    "operator": "National Telecom Public Company Limited  (TOT Public Company Limited)",
+    "brand": "NT Mobile",
+    "operator": "National Telecom Public Company Limited",
     "status": "Operational",
     "bands": "TD-LTE 2300",
-    "notes": "LTE band 40 For TOT Mobile Only"
+    "notes": "Former TOT Public Company Limited; LTE band 40; for NT Mobile and MVNO except dtac-T uses 520-47"
   },
   {
     "plmn": "52018",
@@ -42871,10 +42956,10 @@
     "lat": "15",
     "long": "100",
     "brand": "dtac-T",
-    "operator": "National Telecom Public Company Limited  (TOT Public Company Limited)",
+    "operator": "National Telecom Public Company Limited",
     "status": "Operational",
     "bands": "TD-LTE 2300",
-    "notes": "LTE band 40 For dtac Only"
+    "notes": "Former TOT Public Company Limited; LTE band 40; for dtac Only"
   },
   {
     "plmn": "52099",
@@ -48140,8 +48225,8 @@
     "countryCode": "TN",
     "lat": "34",
     "long": "9",
-    "brand": "OOREDOO TN",
-    "operator": "ooredoo Tunisiana",
+    "brand": "Ooredoo",
+    "operator": "Ooredoo Tunisiana",
     "status": "Operational",
     "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800",
     "notes": "former Orascom Telecom Tunisie"
@@ -48467,6 +48552,23 @@
     "operator": "Zambia Telecommunications Company Ltd",
     "status": "Operational",
     "bands": "GSM 900 / UMTS 2100 / TD-LTE 2300",
+    "notes": null
+  },
+  {
+    "plmn": "64507",
+    "nibbledPlmn": "46F570",
+    "mcc": "645",
+    "mnc": "07",
+    "region": "Africa",
+    "type": "National",
+    "countryName": "Zambia",
+    "countryCode": "ZM",
+    "lat": "-15",
+    "long": "30",
+    "brand": null,
+    "operator": "Liquid Telecom Zambia Limited",
+    "status": "Unknown",
+    "bands": "Unknown",
     "notes": null
   },
   {
@@ -49330,7 +49432,7 @@
     "countryCode": "CL",
     "lat": "-30",
     "long": "-71",
-    "brand": "movistar",
+    "brand": "Movistar",
     "operator": "Telefónica Móvil de Chile",
     "status": "Operational",
     "bands": "GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 / LTE 700 / LTE 2600",
@@ -49415,7 +49517,7 @@
     "countryCode": "CL",
     "lat": "-30",
     "long": "-71",
-    "brand": "movistar",
+    "brand": "Movistar",
     "operator": "Telefónica Móvil de Chile",
     "status": "Unknown",
     "bands": "Unknown",
@@ -49436,7 +49538,7 @@
     "operator": "VTR S.A.",
     "status": "Operational",
     "bands": "MVNO",
-    "notes": "Uses movistar"
+    "notes": "Uses Movistar"
   },
   {
     "plmn": "73009",
@@ -49504,7 +49606,7 @@
     "operator": "Telestar Móvil S.A.",
     "status": "Operational",
     "bands": "MVNO",
-    "notes": "Uses movistar"
+    "notes": "Uses Movistar"
   },
   {
     "plmn": "73013",
@@ -49521,7 +49623,7 @@
     "operator": "Tribe Mobile Chile SPA",
     "status": "Operational",
     "bands": "MVNO",
-    "notes": "Uses movistar"
+    "notes": "Uses Movistar"
   },
   {
     "plmn": "73014",
@@ -49738,7 +49840,7 @@
     "countryCode": "CO",
     "lat": "4",
     "long": "-72",
-    "brand": "movistar",
+    "brand": "Movistar",
     "operator": "Colombia Telecomunicaciones S.A. ESP",
     "status": "Operational",
     "bands": "Unknown",
@@ -49861,7 +49963,7 @@
     "operator": "Bellsouth Colombia",
     "status": "Not operational",
     "bands": "GSM 850 / GSM 1900 / CDMA 850",
-    "notes": "MNC withdrawn; network acquired by movistar"
+    "notes": "MNC withdrawn; network acquired by Movistar"
   },
   {
     "plmn": "732103",
@@ -49908,7 +50010,7 @@
     "countryCode": "CO",
     "lat": "4",
     "long": "-72",
-    "brand": "movistar",
+    "brand": "Movistar",
     "operator": "Colombia Telecomunicaciones S.A. ESP",
     "status": "Operational",
     "bands": "GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 / LTE 850 / LTE 1700 / LTE 1900",
@@ -49963,7 +50065,7 @@
     "operator": "Virgin Mobile Colombia S.A.S.",
     "status": "Operational",
     "bands": "MVNO",
-    "notes": "Uses movistar"
+    "notes": "Uses Movistar"
   },
   {
     "plmn": "732165",
@@ -49997,7 +50099,7 @@
     "operator": "DirecTV Colombia Ltda",
     "status": "Operational",
     "bands": "LTE 2600 / TD-5G 2600",
-    "notes": "acquired by movistar"
+    "notes": "acquired by Movistar"
   },
   {
     "plmn": "732187",
@@ -50214,7 +50316,7 @@
     "countryCode": "CR",
     "lat": "10",
     "long": "-84",
-    "brand": "movistar",
+    "brand": "Movistar",
     "operator": "Telefónica Móviles Costa Rica",
     "status": "Operational",
     "bands": "GSM 1800 / UMTS 850 / UMTS 2100 / LTE 1800",
@@ -50367,7 +50469,7 @@
     "countryCode": "SV",
     "lat": "13.833333",
     "long": "-88.916667",
-    "brand": "movistar",
+    "brand": "Movistar",
     "operator": "Telefónica Móviles El Salvador",
     "status": "Operational",
     "bands": "GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 / LTE 1900",
@@ -50537,7 +50639,7 @@
     "countryCode": "GT",
     "lat": "15.5",
     "long": "-90.25",
-    "brand": "movistar",
+    "brand": "Movistar",
     "operator": "Telefónica Móviles Guatemala (Telefónica)",
     "status": "Operational",
     "bands": "CDMA 1900 / GSM 1900 / UMTS 1900 / LTE 1900",
@@ -50745,7 +50847,7 @@
     "operator": "Telefonía Celular de Nicaragua, S.A.",
     "status": "Operational",
     "bands": "GSM 850 / GSM 1900 / UMTS 850 / LTE 1900",
-    "notes": "Former movistar; CDMA 800, TDMA 800, and NAMPS 800 have been shut down"
+    "notes": "Former Movistar; CDMA 800, TDMA 800, and NAMPS 800 have been shut down"
   },
   {
     "plmn": "71073",
@@ -50796,7 +50898,7 @@
     "operator": "Telefónica Moviles de Panama S.A",
     "status": "Operational",
     "bands": "GSM 850 / UMTS 850 / UMTS 1900 / LTE 700 / LTE 1700 / LTE 1900",
-    "notes": "Former movistar, Bell South Corp. (BSC); CDMA 800, TDMA 800 and NAMPS 800 are closed."
+    "notes": "Former Movistar, Bell South Corp. (BSC); CDMA 800, TDMA 800 and NAMPS 800 are closed."
   },
   {
     "plmn": "714020",
@@ -50813,7 +50915,7 @@
     "operator": "Telefónica Móviles de Panama S.A",
     "status": "Operational",
     "bands": "GSM 850 / LTE 700",
-    "notes": "Former movistar"
+    "notes": "Former Movistar"
   },
   {
     "plmn": "71403",
@@ -51251,7 +51353,7 @@
     "countryCode": "VE",
     "lat": "8",
     "long": "-66",
-    "brand": "movistar",
+    "brand": "Movistar",
     "operator": "Telefónica Móviles Venezuela",
     "status": "Operational",
     "bands": "GSM 850 / GSM 1900 / UMTS 1900 / LTE 1700",
