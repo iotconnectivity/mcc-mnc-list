@@ -1306,5 +1306,21 @@
     "status": "Operational",
     "bands": "",
     "notes": null
+  },{
+    "plmn": "311588",
+    "nibbledPlmn": "138185",
+    "mcc": "311",
+    "mnc": "588",
+    "region": "North America",
+    "type": "National",
+    "countryName": "United States of America",
+    "countryCode": "US",
+    "lat": "41.98257640715201",
+    "long": "-87.83878953426597",
+    "brand": "US Cellular",
+    "operator": "US Cellular",
+    "status": "Operational",
+    "bands": "",
+    "notes": ""
   }
 ]
