@@ -72,8 +72,8 @@ async function fetch (wiki_url) {
               recordType = 'Test';
             }
 
-            if (sectionName.indexOf(' - ') !== -1) {
-              let sectionParts = sectionName.split(' - ');
+            if (sectionName.indexOf(' – ') !== -1) {
+              let sectionParts = sectionName.split(' – ');
               countryName = sectionParts[0];
               countryCode = sectionParts[1];
               recordType = 'National';
