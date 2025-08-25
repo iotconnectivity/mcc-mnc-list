@@ -1,16 +1,15 @@
 [
   "Allocated",
   "Implement / Design",
-  "Not opearational",
   "Not operational",
   "Ongoing",
   "Operational",
   "Planned",
   "Reserved",
-  "Returned spare",
   "Temporary operational",
   "Test Network",
   "Testing",
+  "UNKNOWN",
   "Unknown",
   "Upcoming"
 ]

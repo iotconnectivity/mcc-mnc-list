@@ -85,23 +85,6 @@
     "notes": null
   },
   {
-    "plmn": "710300",
-    "nibbledPlmn": "170003",
-    "mcc": "710",
-    "mnc": "300",
-    "region": "South and Central America",
-    "type": "National",
-    "countryName": "Nicaragua",
-    "countryCode": "NI",
-    "lat": "13",
-    "long": "-85",
-    "brand": "movistar",
-    "operator": "Telefonía Celular de Nicaragua, S.A. (Telefónica, S.A.)",
-    "status": "Operational",
-    "bands": "GSM 850 / GSM 1900 / UMTS 850",
-    "notes": null
-  },
-  {
     "plmn": "72207",
     "nibbledPlmn": "27F270",
     "mcc": "722",
