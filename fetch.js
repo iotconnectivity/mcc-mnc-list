@@ -28,7 +28,7 @@ var records = [];
 
 async function fetch (wiki_url) {
   return new Promise((resolve, reject) => {
-    JSDOM.fromURL(wiki_url).then(dom =>
+    JSDOM.fromURL(wiki_url, { resources: resourceLoader }).then(dom =>
       {
         const { window } = dom;
         var content = window.document.querySelector('#mw-content-text > .mw-parser-output');
@@ -51,45 +51,53 @@ async function fetch (wiki_url) {
             continue;
           }
 
-          if (node.nodeName === 'H2' || node.nodeName === 'H3' || node.nodeName === 'H4') {
-            recordType = 'other';
-            sectionName = node.querySelector('.mw-headline').textContent.trim();
-
-            if (sectionName === 'See also' || sectionName === 'External links' || sectionName === 'National MNC Authorities') {
-              break nodeList;
-            }
-
-            if (sectionName === 'National operators') {
-              continue;
-            }
-
-            if (sectionName.length === 1) {
-              continue;
-            }
-
-            if (sectionName === 'Test networks') {
-              countryName = null;
-              countryCode = null;
-              recordType = 'Test';
-            }
-
-            if (sectionName.indexOf(' – ') !== -1) {
-              let sectionParts = sectionName.split(' – ');
-              countryName = sectionParts[0];
-              countryCode = sectionParts[1];
-              recordType = 'National';
-            }
-
-            if (sectionName === 'International operators') {
-              countryName = null;
-              countryCode = null;
-              recordType = 'International';
-            }
-
-            if (recordType === 'other') {
-              console.log('WARN recordType is other', node.textContent);
-            }
+          if(node.nodeName === 'DIV'){
+            sectionName = node?.querySelector('h2')?.textContent || node?.querySelector('h4')?.textContent
           }
+
+          if(node.nodeName.indexOf(' – ') !== -1){
+            sectionName = JSON.stringify(node.nodeName)
+          }
+
+          if (sectionName) {
+              recordType = 'other';
+
+              if (sectionName === 'See also' || sectionName === 'External links' || sectionName === 'National MNC Authorities') {
+                break nodeList;
+              }
+
+              if (sectionName === 'National operators') {
+                continue;
+              }
+
+              if (sectionName.length === 1) {
+                continue;
+              }
+
+              if (sectionName === 'Test networks') {
+                countryName = null;
+                countryCode = null;
+                recordType = 'Test';
+              }
+
+              if (sectionName.includes(' – ')) {
+                let sectionParts = sectionName.split(' – ');
+                countryName = sectionParts[0];
+                countryCode = sectionParts[1];
+                recordType = 'National';
+              }
+
+              if (sectionName === 'International operators') {
+                countryName = null;
+                countryCode = null;
+                recordType = 'International';
+              }
+
+              if (recordType === 'other') {
+                console.log('WARN recordType is other', node.textContent);
+              }
+
+
 
           if (node.nodeName === 'TABLE') {
             let rows = node.querySelectorAll('tr');
@@ -144,10 +152,11 @@ async function fetch (wiki_url) {
               })
             }
           }
-        }
         console.log( 'MCC-MNC list saved to ' + MCC_MNC_OUTPUT_FILE );
         console.log( 'Total ' + records.length + ' records' );
         resolve()
+          }
+        }
     })
   })
 
