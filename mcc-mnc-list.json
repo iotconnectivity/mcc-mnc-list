@@ -1312,6 +1312,57 @@
     "notes": ""
   },
   {
+    "plmn": "90198",
+    "nibbledPlmn": "09F189",
+    "mcc": "901",
+    "mnc": "98",
+    "region": "Worldwide",
+    "type": "International",
+    "countryName": null,
+    "countryCode": null,
+    "lat": null,
+    "long": null,
+    "brand": "Skylo",
+    "operator": "Skylo",
+    "status": "Operational",
+    "bands": "Satellite 5G 1600",
+    "notes": null
+  },
+  {
+    "plmn": "90130",
+    "nibbledPlmn": "09F103",
+    "mcc": "901",
+    "mnc": "30",
+    "region": "Worldwide",
+    "type": "International",
+    "countryName": null,
+    "countryCode": null,
+    "lat": null,
+    "long": null,
+    "brand": "OQ Technology",
+    "operator": "OQ Technology",
+    "status": "Operational",
+    "bands": "Satellite 5G",
+    "notes": "Formerly: Terrestar Networks"
+  },
+  {
+    "plmn": "90197",
+    "nibbledPlmn": "09F179",
+    "mcc": "901",
+    "mnc": "97",
+    "region": "Worldwide",
+    "type": "International",
+    "countryName": null,
+    "countryCode": null,
+    "lat": null,
+    "long": null,
+    "brand": "Satelio IoT Services S.L.",
+    "operator": "Satelio IoT Services S.L.",
+    "status": "Operational",
+    "bands": "Satellite",
+    "notes": "IoT solutions"
+  },
+  {
     "plmn": "00101",
     "nibbledPlmn": "00F110",
     "mcc": "001",
@@ -1715,9 +1766,9 @@
     "long": null,
     "brand": null,
     "operator": "Intermatica",
-    "status": "Unknown",
+    "status": "Not operational",
     "bands": "Unknown",
-    "notes": null
+    "notes": "MNC withdrawn"
   },
   {
     "plmn": "90121",
@@ -1732,9 +1783,9 @@
     "long": null,
     "brand": null,
     "operator": "Wins Limited",
-    "status": "Operational",
+    "status": "Not operational",
     "bands": "GSM 1800",
-    "notes": "Maritime; formerly Seanet Maritime Communications"
+    "notes": "Maritime; formerly Seanet Maritime Communications; MNC withdrawn"
   },
   {
     "plmn": "90122",
@@ -1749,9 +1800,9 @@
     "long": null,
     "brand": null,
     "operator": "MediaLincc Ltd",
-    "status": "Unknown",
+    "status": "Not operational",
     "bands": "Unknown",
-    "notes": null
+    "notes": "MNC withdrawn"
   },
   {
     "plmn": "90123",
@@ -1970,9 +2021,9 @@
     "long": null,
     "brand": null,
     "operator": "Globecomm Network Services",
-    "status": "Operational",
+    "status": "Not operational",
     "bands": "GSM 850",
-    "notes": "Maritime"
+    "notes": "Maritime; MNC withdrawn"
   },
   {
     "plmn": "90136",
@@ -1987,9 +2038,9 @@
     "long": null,
     "brand": null,
     "operator": "Azerfon",
-    "status": "Operational",
+    "status": "Not operational",
     "bands": "GSM 1800",
-    "notes": "Air"
+    "notes": "Air; MNC withdrawn"
   },
   {
     "plmn": "90137",
@@ -2021,9 +2072,9 @@
     "long": null,
     "brand": null,
     "operator": "Multiregional TransitTelecom (MTT)",
-    "status": "Operational",
+    "status": "Not operational",
     "bands": "MVNO",
-    "notes": null
+    "notes": "MNC withdrawn"
   },
   {
     "plmn": "90139",
@@ -4161,7 +4212,7 @@
     "countryCode": "BE",
     "lat": "50.833333",
     "long": "4",
-    "brand": "DIGI BE",
+    "brand": "DIGI Belgium",
     "operator": "DIGI Communications Belgium NV",
     "status": "Operational",
     "bands": "Unknown",
@@ -16095,11 +16146,11 @@
     "countryCode": "RU",
     "lat": "60",
     "long": "100",
-    "brand": "Osnova Telecom",
-    "operator": null,
-    "status": "Not operational",
-    "bands": "TD-LTE 2300",
-    "notes": null
+    "brand": "12.ru",
+    "operator": "Astran",
+    "status": "Operational",
+    "bands": "MVNO",
+    "notes": "Previously used Osnova Telecom"
   },
   {
     "plmn": "25019",
@@ -19006,7 +19057,7 @@
     "operator": "Swisscom AG",
     "status": "Operational",
     "bands": "UMTS 900 / LTE 700 / LTE 800 / LTE 900 / LTE 1500 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 2100 / 5G 3500",
-    "notes": "UMTS 2100 shut down Nov 2019, GSM April 2021; UMTS 900 shutdown planned for 2024"
+    "notes": "UMTS 2100 shut down Nov 2019, GSM April 2021; UMTS 900 shutdown planned for Dec 2025"
   },
   {
     "plmn": "22802",
@@ -19022,8 +19073,8 @@
     "brand": "Sunrise",
     "operator": "Sunrise UPC",
     "status": "Operational",
-    "bands": "UMTS 900 / UMTS 2100 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 3500",
-    "notes": "GSM shut down Jan 2023"
+    "bands": "LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 3500",
+    "notes": "GSM shut down Jan 2023, UMTS shut down Aug 2025"
   },
   {
     "plmn": "22803",
@@ -19106,9 +19157,9 @@
     "long": "8",
     "brand": "Tele4u",
     "operator": "Sunrise Communications AG",
-    "status": "Operational",
+    "status": "Not operational",
     "bands": "GSM 1800",
-    "notes": "Former Tele2"
+    "notes": "Former Tele2; GSM shut down Jan 2023"
   },
   {
     "plmn": "22809",
@@ -19291,11 +19342,11 @@
     "countryCode": "CH",
     "lat": "47",
     "long": "8",
-    "brand": "WeMobile",
+    "brand": null,
     "operator": "Komodos SA",
-    "status": "Unknown",
+    "status": "Not operational",
     "bands": null,
-    "notes": "SMS relay only"
+    "notes": "Former WeMobile; SMS relay only"
   },
   {
     "plmn": "22856",
@@ -23021,10 +23072,44 @@
     "notes": null
   },
   {
+    "plmn": "302725",
+    "nibbledPlmn": "035227",
+    "mcc": "302",
+    "mnc": "725",
+    "region": "North America and the Caribbean",
+    "type": "National",
+    "countryName": "Canada",
+    "countryCode": "CA",
+    "lat": "60",
+    "long": "-96",
+    "brand": "Rogers Wireless",
+    "operator": "Rogers Communications",
+    "status": "Unknown",
+    "bands": "Unknown",
+    "notes": null
+  },
+  {
     "plmn": "302730",
     "nibbledPlmn": "030237",
     "mcc": "302",
     "mnc": "730",
+    "region": "North America and the Caribbean",
+    "type": "National",
+    "countryName": "Canada",
+    "countryCode": "CA",
+    "lat": "60",
+    "long": "-96",
+    "brand": "TerreStar Solutions",
+    "operator": "TerreStar Networks",
+    "status": "Unknown",
+    "bands": "Unknown",
+    "notes": null
+  },
+  {
+    "plmn": "302731",
+    "nibbledPlmn": "031237",
+    "mcc": "302",
+    "mnc": "731",
     "region": "North America and the Caribbean",
     "type": "National",
     "countryName": "Canada",
@@ -23191,6 +23276,23 @@
     "notes": null
   },
   {
+    "plmn": "302821",
+    "nibbledPlmn": "031228",
+    "mcc": "302",
+    "mnc": "821",
+    "region": "North America and the Caribbean",
+    "type": "National",
+    "countryName": "Canada",
+    "countryCode": "CA",
+    "lat": "60",
+    "long": "-96",
+    "brand": "Rogers Wireless",
+    "operator": "Rogers Communications",
+    "status": "Unknown",
+    "bands": "Unknown",
+    "notes": null
+  },
+  {
     "plmn": "302848",
     "nibbledPlmn": "038248",
     "mcc": "302",
@@ -23339,6 +23441,23 @@
     "long": "-96",
     "brand": null,
     "operator": "Canadian National Railway",
+    "status": "Unknown",
+    "bands": "Unknown",
+    "notes": null
+  },
+  {
+    "plmn": "302972",
+    "nibbledPlmn": "032279",
+    "mcc": "302",
+    "mnc": "972",
+    "region": "North America and the Caribbean",
+    "type": "National",
+    "countryName": "Canada",
+    "countryCode": "CA",
+    "lat": "60",
+    "long": "-96",
+    "brand": null,
+    "operator": "Hydro-Québec",
     "status": "Unknown",
     "bands": "Unknown",
     "notes": null
@@ -46610,11 +46729,11 @@
     "countryCode": "AU/CC/CX",
     "lat": "-10.5",
     "long": "105.666667",
-    "brand": "Vodafone",
-    "operator": "Vodafone Network Pty Ltd",
+    "brand": null,
+    "operator": "TPG Telecom",
     "status": "Unknown",
     "bands": "Unknown",
-    "notes": null
+    "notes": "Former Vodafone"
   },
   {
     "plmn": "50508",
@@ -46731,9 +46850,9 @@
     "long": "105.666667",
     "brand": "AAPT",
     "operator": "TPG Telecom",
-    "status": "Operational",
+    "status": "Not operational",
     "bands": "MVNO",
-    "notes": "Wholesale from Vodafone Hutchison Australia"
+    "notes": "MNC withdrawn"
   },
   {
     "plmn": "50515",
@@ -46749,8 +46868,8 @@
     "brand": "3GIS",
     "operator": null,
     "status": "Not operational",
-    "bands": null,
-    "notes": "Taken over by Vodafone."
+    "bands": "UMTS",
+    "notes": "Telstra & Hutchison 3G; MNC withdrawn"
   },
   {
     "plmn": "50516",
@@ -46883,10 +47002,10 @@
     "lat": "-10.5",
     "long": "105.666667",
     "brand": null,
-    "operator": "Challenge Networks Pty Ltd",
+    "operator": "Vocus Pty Ltd",
     "status": "Operational",
     "bands": "LTE 1800 / LTE 2100",
-    "notes": "Private networks, primarily for mining industry"
+    "notes": "Former Challenge Networks; private networks, primarily for mining industry"
   },
   {
     "plmn": "50524",
@@ -46951,10 +47070,10 @@
     "lat": "-10.5",
     "long": "105.666667",
     "brand": null,
-    "operator": "Yurika",
+    "operator": "Ergon Energy Telecommunications Pty Ltd",
     "status": "Unknown",
     "bands": "Unknown",
-    "notes": "Former Nexium"
+    "notes": "Former Nexium, Yurika"
   },
   {
     "plmn": "50528",
@@ -47647,11 +47766,11 @@
     "countryCode": "AU/CC/CX",
     "lat": "-10.5",
     "long": "105.666667",
-    "brand": "One.Tel",
-    "operator": "One.Tel",
-    "status": "Not operational",
-    "bands": "GSM 1800",
-    "notes": "Rail operators purchased 1800 spectrum; MNC withdrawn"
+    "brand": "Telstra",
+    "operator": "Telstra Corporation Limited",
+    "status": "Unknown",
+    "bands": "Unknown",
+    "notes": "Former One.Tel; rail operators purchased 1800 spectrum"
   },
   {
     "plmn": "52801",

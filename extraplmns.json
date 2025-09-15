@@ -1240,8 +1240,7 @@
     "status": "Operational",
     "bands": "",
     "notes": null
-  }
-  ,{
+  },{
     "plmn": "73447",
     "nibbledPlmn": "37F474",
     "mcc": "734",
@@ -1305,5 +1304,56 @@
     "status": "Operational",
     "bands": "",
     "notes": ""
+  },
+    {
+    "plmn": "90198",
+    "nibbledPlmn": "09F189",
+    "mcc": "901",
+    "mnc": "98",
+    "region": "Worldwide",
+    "type": "International",
+    "countryName": null,
+    "countryCode": null,
+    "lat": null,
+    "long": null,
+    "brand": "Skylo",
+    "operator": "Skylo",
+    "status": "Operational",
+    "bands": "Satellite 5G 1600",
+    "notes": null
+  },
+    {
+    "plmn": "90130",
+    "nibbledPlmn": "09F103",
+    "mcc": "901",
+    "mnc": "30",
+    "region": "Worldwide",
+    "type": "International",
+    "countryName": null,
+    "countryCode": null,
+    "lat": null,
+    "long": null,
+    "brand": "OQ Technology",
+    "operator": "OQ Technology",
+    "status": "Operational",
+    "bands": "Satellite 5G",
+    "notes": "Formerly: Terrestar Networks"
+  },
+    {
+    "plmn": "90197",
+    "nibbledPlmn": "09F179",
+    "mcc": "901",
+    "mnc": "97",
+    "region": "Worldwide",
+    "type": "International",
+    "countryName": null,
+    "countryCode": null,
+    "lat": null,
+    "long": null,
+    "brand": "Satelio IoT Services S.L.",
+    "operator": "Satelio IoT Services S.L.",
+    "status": "Operational",
+    "bands": "Satellite",
+    "notes": "IoT solutions"
   }
 ]
